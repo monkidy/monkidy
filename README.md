@@ -1,16 +1,16 @@
-Hichem Benali
+# Hichem Benali
 
-Building governed autonomous systems, bounded agent workflows, and proof-driven AI infrastructure.
+**Building governed autonomous systems, bounded agent workflows, and proof-driven AI infrastructure.**
 
 I design and build systems where LLMs are used as reasoning engines inside explicit governance boundaries, not as uncontrolled decision-makers.
 
-My current work focuses on ACE / Asso Execution Bridge: a governed autonomous operating layer for multi-agent delegation, state monitoring, receipts, human approval gates, and fail-closed execution.
+My current work focuses on **ACE / Asso Execution Bridge**: a governed autonomous operating layer for multi-agent delegation, state monitoring, receipts, human approval gates, and fail-closed execution.
 
 ---
 
-Current Focus
+## Current Focus
 
-ACE / Asso Execution Bridge
+### ACE / Asso Execution Bridge
 
 A systems lab exploring how autonomous agents can operate safely inside explicit envelopes:
 
@@ -25,45 +25,45 @@ A systems lab exploring how autonomous agents can operate safely inside explicit
 
 The goal is not to make agents act freely.
 
-The goal is to make agentic systems governable, auditable, reversible, and useful.
+The goal is to make agentic systems **governable, auditable, reversible, and useful**.
 
 ---
 
-Technical Areas
+## Technical Areas
 
-Systems Architecture
+**Systems Architecture**  
 Multi-agent orchestration, bounded autonomy, state buses, execution gates, agent envelopes.
 
-Core Stack
+**Core Stack**  
 Python, TypeScript, Node.js, GitHub Actions, local-first automation.
 
-AI Infrastructure
+**AI Infrastructure**  
 LLM routing, local inference experiments, agent evaluation harnesses, prompt-to-receipt workflows.
 
-Security & Governance
+**Security & Governance**  
 No-send defaults, explicit approval boundaries, audit trails, rollback-first design.
 
-Market Telemetry Research
+**Market Telemetry Research**  
 Risk-aware telemetry, signal pipelines, and supervised execution research.
 
 ---
 
-Operating Doctrine
+## Operating Doctrine
 
-«Power without governance is a liability.
-Real autonomy requires boundaries, receipts, and revocation.»
+> Power without governance is a liability.  
+> Real autonomy requires boundaries, receipts, and revocation.
 
 Core principles:
 
-- Fail-closed by default — unknown states stop instead of improvising.
-- Receipts over claims — no status is trusted without evidence.
-- Outbox is not send — drafts and publication are separate gates.
-- Branches are envelopes — every agentic work branch needs a mandate, boundary, handoff, and rollback path.
-- Human authority stays explicit — LLMs reason, systems verify, humans authorize sensitive action.
+- **Fail-closed by default** — unknown states stop instead of improvising.
+- **Receipts over claims** — no status is trusted without evidence.
+- **Outbox is not send** — drafts and publication are separate gates.
+- **Branches are envelopes** — every agentic work branch needs a mandate, boundary, handoff, and rollback path.
+- **Human authority stays explicit** — LLMs reason, systems verify, humans authorize sensitive action.
 
 ---
 
-Public Work
+## Public Work
 
 Selected public artifacts will be added here as they become safe, documented, and verifiable:
 
@@ -75,8 +75,8 @@ Selected public artifacts will be added here as they become safe, documented, an
 
 ---
 
-Contact
+## Contact
 
-- GitHub: "@monkidy"
+- GitHub: `@monkidy`
 - LinkedIn: canonical profile link to be added after verification
 - Public notes / SOP pack: canonical link to be added after approval
