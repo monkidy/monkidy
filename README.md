@@ -2,9 +2,30 @@
 
 **Building governed autonomous systems, bounded agent workflows, and proof-driven AI infrastructure.**
 
-I design and build systems where LLMs are used as reasoning engines inside explicit governance boundaries, not as uncontrolled decision-makers.
+I design and build systems where LLMs are used as reasoning engines inside explicit governance boundaries — not as uncontrolled decision-makers.
 
 My current work focuses on **ACE / Asso Execution Bridge**: a governed autonomous operating layer for multi-agent delegation, state monitoring, receipts, human approval gates, and fail-closed execution.
+
+The core thesis is simple:
+
+> Autonomy without governance is not intelligence. It is liability.
+
+---
+
+## What I Build
+
+I work on practical infrastructure for agentic systems that need to stay bounded, auditable, and reversible:
+
+- **bounded autonomy** — agents act inside explicit envelopes;
+- **branch-as-envelope workflows** — every agentic branch has a mandate, boundary, handoff, and rollback path;
+- **receipt-based execution** — claims are not trusted without evidence;
+- **human-in-the-loop gates** — sensitive actions require explicit approval;
+- **fail-closed systems** — unknown states stop instead of improvising;
+- **agent evaluation harnesses** — behavior should be testable, not merely impressive.
+
+The goal is not to make agents act freely.
+
+The goal is to make agentic systems **governable, auditable, reversible, and useful**.
 
 ---
 
@@ -12,20 +33,37 @@ My current work focuses on **ACE / Asso Execution Bridge**: a governed autonomou
 
 ### ACE / Asso Execution Bridge
 
-A systems lab exploring how autonomous agents can operate safely inside explicit envelopes:
+ACE / Asso is my private systems lab for governed autonomous execution.
 
-- bounded autonomy
-- branch-as-envelope workflows
-- human-in-the-loop approval gates
-- receipt-based execution
-- multi-agent coordination
-- UI-visible system state
-- public proof loops
-- fail-closed operational design
+It explores how specialized agents can coordinate work across branches, produce artifacts, leave receipts, surface system state in a control room, and prepare public-safe proof outputs without turning LLMs into uncontrolled authorities.
 
-The goal is not to make agents act freely.
+The canonical execution repo is currently private while the safety, runtime, and proof boundaries are being stabilized.
 
-The goal is to make agentic systems **governable, auditable, reversible, and useful**.
+Public-facing extracts and reusable patterns will be published through the repos below.
+
+---
+
+## Public Artifacts
+
+### [ai-ops-sop-pack](https://github.com/monkidy/ai-ops-sop-pack)
+
+SOPs and templates for bounded AI-agent operations: PR review, handoff discipline, crash recovery, stop conditions, and audit-friendly workflows.
+
+This is the most directly reusable public artifact today.
+
+### [asso-lab](https://github.com/monkidy/asso-lab)
+
+Public lab surface for ACE / Asso doctrine, bounded agent governance, and proof-driven operating patterns.
+
+This repo is intended to expose safe public notes without leaking the private execution core.
+
+### [ACE-LAB-GATEWAY](https://github.com/monkidy/ACE-LAB-GATEWAY)
+
+Gateway surface for controlled public interfaces, lab notes, and future proof cards around governed autonomous systems.
+
+### [monkidy](https://github.com/monkidy/monkidy)
+
+This GitHub profile README. It acts as the public identity and authority surface for the work above.
 
 ---
 
@@ -63,20 +101,24 @@ Core principles:
 
 ---
 
-## Public Work
+## Current Proof Work
 
-Selected public artifacts will be added here as they become safe, documented, and verifiable:
+The next public-facing layer is focused on making agent governance testable:
 
-- ACE / Asso Execution Bridge public notes
-- agent evaluation harnesses
-- public proof cards
-- AI operations SOPs
-- bounded automation patterns
+- action-class classification;
+- draft vs send boundaries;
+- claim vs receipt discipline;
+- handoff completeness;
+- branch-as-envelope validation;
+- public proof cards;
+- local, deterministic eval fixtures before any model-scored runner.
+
+Private work becomes public only when it can be made safe, documented, and verifiable.
 
 ---
 
 ## Contact
 
-- GitHub: `@monkidy`
-- LinkedIn: canonical profile link to be added after verification
-- Public notes / SOP pack: canonical link to be added after approval
+- GitHub: [@monkidy](https://github.com/monkidy)
+- Public SOPs: [ai-ops-sop-pack](https://github.com/monkidy/ai-ops-sop-pack)
+- Public lab: [asso-lab](https://github.com/monkidy/asso-lab)
