@@ -31,7 +31,7 @@ The goal is to make agentic systems **governable, auditable, reversible, and use
 
 ## Current Focus
 
-### ACE / Asso Execution Engine
+### ACE / Asso Capital Engine
 
 ACE / Asso is my private systems lab for governed autonomous execution.
 
