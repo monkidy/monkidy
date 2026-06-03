@@ -4,7 +4,7 @@
 
 I design and build systems where LLMs are used as reasoning engines inside explicit governance boundaries — not as uncontrolled decision-makers.
 
-My current work focuses on **ACE / Asso Execution Engine**: a governed autonomous operating layer for multi-agent delegation, state monitoring, receipts, human approval gates, and fail-closed execution.
+My current work focuses on **ACE / Asso Capital Engine**: a governed autonomous operating layer for multi-agent delegation, state monitoring, receipts, human approval gates, and fail-closed execution.
 
 The core thesis is simple:
 
