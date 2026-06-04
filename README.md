@@ -57,10 +57,6 @@ Public lab surface for ACE / Asso doctrine, bounded agent governance, and proof-
 
 This repo is intended to expose safe public notes without leaking the private execution core.
 
-### [ACE-LAB-GATEWAY](https://github.com/monkidy/ACE-LAB-GATEWAY)
-
-Gateway surface for controlled public interfaces, lab notes, and future proof cards around governed autonomous systems.
-
 ### [monkidy](https://github.com/monkidy/monkidy)
 
 This GitHub profile README. It acts as the public identity and authority surface for the work above.
