@@ -57,6 +57,8 @@ Public lab surface for ACE / Asso doctrine, bounded agent governance, and proof-
 
 This repo is intended to expose safe public notes without leaking the private execution core.
 
+It also hosts the canonical [ACE Visual Charter V1](https://github.com/monkidy/asso-lab/blob/main/docs/brand/ACE_VISUAL_CHARTER_V1.md), the fleet's dual-mode visual doctrine.
+
 ### [monkidy](https://github.com/monkidy/monkidy)
 
 This GitHub profile README. It acts as the public identity and authority surface for the work above.
