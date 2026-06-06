@@ -2,7 +2,7 @@
 
 **Building governed autonomous systems, bounded agent workflows, and proof-driven AI infrastructure.**
 
-I design and build systems where LLMs are used as reasoning engines inside explicit governance boundaries — not as uncontrolled decision-makers.
+I design and build systems where LLMs are used as reasoning engines inside explicit governance boundaries, not as uncontrolled decision-makers.
 
 My current work focuses on **ACE / Asso Capital Engine**: a governed autonomous operating layer for multi-agent delegation, state monitoring, receipts, human approval gates, and fail-closed execution.
 
@@ -16,12 +16,12 @@ The core thesis is simple:
 
 I work on practical infrastructure for agentic systems that need to stay bounded, auditable, and reversible:
 
-- **bounded autonomy** — agents act inside explicit envelopes;
-- **branch-as-envelope workflows** — every agentic branch has a mandate, boundary, handoff, and rollback path;
-- **receipt-based execution** — claims are not trusted without evidence;
-- **human-in-the-loop gates** — sensitive actions require explicit approval;
-- **fail-closed systems** — unknown states stop instead of improvising;
-- **agent evaluation harnesses** — behavior should be testable, not merely impressive.
+- **bounded autonomy**: agents act inside explicit envelopes;
+- **branch-as-envelope workflows**: every agentic branch has a mandate, boundary, handoff, and rollback path;
+- **receipt-based execution**: claims are not trusted without evidence;
+- **human-in-the-loop gates**: sensitive actions require explicit approval;
+- **fail-closed systems**: unknown states stop instead of improvising;
+- **agent evaluation harnesses**: behavior should be testable, not merely impressive.
 
 The goal is not to make agents act freely.
 
@@ -91,11 +91,11 @@ Risk-aware telemetry, signal pipelines, and supervised execution research.
 
 Core principles:
 
-- **Fail-closed by default** — unknown states stop instead of improvising.
-- **Receipts over claims** — no status is trusted without evidence.
-- **Outbox is not send** — drafts and publication are separate gates.
-- **Branches are envelopes** — every agentic work branch needs a mandate, boundary, handoff, and rollback path.
-- **Human authority stays explicit** — LLMs reason, systems verify, humans authorize sensitive action.
+- **Fail-closed by default**: unknown states stop instead of improvising.
+- **Receipts over claims**: no status is trusted without evidence.
+- **Outbox is not send**: drafts and publication are separate gates.
+- **Branches are envelopes**: every agentic work branch needs a mandate, boundary, handoff, and rollback path.
+- **Human authority stays explicit**: LLMs reason, systems verify, humans authorize sensitive action.
 
 ---
 
