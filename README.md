@@ -1,4 +1,4 @@
-# Hichem Benali
+﻿# Hichem Benali
 
 **Building governed autonomous systems, bounded agent workflows, and proof-driven AI infrastructure.**
 
@@ -45,23 +45,23 @@ Public-facing extracts and reusable patterns will be published through the repos
 
 ## Public Artifacts
 
-### [ai-ops-sop-pack](https://github.com/monkidy/ai-ops-sop-pack)
-
-SOPs and templates for bounded AI-agent operations: PR review, handoff discipline, crash recovery, stop conditions, and audit-friendly workflows.
-
-This is the most directly reusable public artifact today.
-
 ### [asso-lab](https://github.com/monkidy/asso-lab)
 
-Public lab surface for ACE / Asso doctrine, bounded agent governance, and proof-driven operating patterns.
-
-This repo is intended to expose safe public notes without leaking the private execution core.
+The flagship public surface: a working proof of the ACE doctrine. Bounded briefs with code-generated, inspectable receipts (status, hash, sources, timestamp, signature). Proof, not promises.
 
 It also hosts the canonical [ACE Visual Charter V1](https://github.com/monkidy/asso-lab/blob/main/docs/brand/ACE_VISUAL_CHARTER_V1.md), the fleet's dual-mode visual doctrine.
 
+### [ace-agent-governance-receipt-standard](https://github.com/monkidy/ace-agent-governance-receipt-standard)
+
+The citable standard: a small, practical pattern for keeping AI agents bounded, traceable, and revocable (mandate, proposal, receipt). Apache-2.0.
+
+### [ai-ops-sop-pack](https://github.com/monkidy/ai-ops-sop-pack)
+
+SOPs and templates for bounded AI-agent operations: PR review, handoff discipline, crash recovery, stop conditions. The most directly reusable drop-in artifact.
+
 ### [monkidy](https://github.com/monkidy/monkidy)
 
-This GitHub profile README. It acts as the public identity and authority surface for the work above.
+This GitHub profile README. Public identity and authority surface for the work above.
 
 ---
 
@@ -120,3 +120,4 @@ Private work becomes public only when it can be made safe, documented, and verif
 - GitHub: [@monkidy](https://github.com/monkidy)
 - Public SOPs: [ai-ops-sop-pack](https://github.com/monkidy/ai-ops-sop-pack)
 - Public lab: [asso-lab](https://github.com/monkidy/asso-lab)
+
