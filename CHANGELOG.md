@@ -4,6 +4,23 @@ All notable changes to this public GitHub profile README are recorded here.
 
 This changelog does not imply runtime capability, production readiness, client adoption, revenue, formal verification, or permission-to-act.
 
+## v0.1.1 - 2026-06-09
+
+Status: personal origin and public positioning pass.
+
+### Added
+
+- French `Pourquoi je construis ça` section to explain the origin of the work in a sincere, non-confessional way.
+- Clearer story bridge between lived experience, cost of unclear systems, and the ACE / Asso governance doctrine.
+
+### Boundaries maintained
+
+- No production-readiness claim added.
+- No client or revenue claim added.
+- No private implementation safety claim added.
+- No runtime authority added.
+- No permission-to-act granted.
+
 ## v0.1.0 - 2026-06-09
 
 Status: public profile reader-first alignment pass.
