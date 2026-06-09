@@ -18,6 +18,32 @@ The core thesis is simple:
 
 ---
 
+## Pourquoi je construis ça
+
+Je ne suis pas arrivé à ces sujets par mode.
+
+Je suis arrivé là parce que j’ai longtemps senti un décalage entre ce que je voyais dans ma tête et ce que les systèmes autour de moi permettaient vraiment de faire.
+
+Quand tu n’as pas tous les codes au départ, tu apprends vite une chose : le flou coûte cher. Une consigne mal posée, une responsabilité pas claire, une décision prise trop vite, une preuve qu’on ne garde pas, et tout repose ensuite sur la mémoire, l’intuition ou la bonne volonté des gens.
+
+J’ai fini par comprendre que ce problème n’était pas seulement personnel. C’est aussi le problème des agents IA.
+
+Un agent peut produire vite. Il peut donner l’impression de comprendre. Il peut proposer, rédiger, exécuter, résumer, convaincre. Mais s’il n’a pas de cadre, pas de limite, pas de trace, pas de refus possible, alors ce n’est pas de l’intelligence opérationnelle. C’est du risque qui parle bien.
+
+ACE / Asso vient de là.
+
+Je construis une manière de travailler où l’agent ne remplace pas l’humain, ne prend pas l’autorité, ne transforme pas une proposition en action, et ne cache pas son travail derrière une phrase propre.
+
+Chaque action doit avoir un mandat. Chaque décision sensible doit avoir un gate. Chaque claim doit pouvoir revenir à une preuve. Chaque système doit savoir s’arrêter quand le cadre manque.
+
+Ce n’est pas une recherche d’autonomie magique.
+
+C’est une recherche de puissance contrôlée : garder la vitesse, garder l’ambition, mais retirer le brouillard.
+
+Je construis ACE / Asso parce que je veux des systèmes capables d’aider vraiment, sans voler la responsabilité humaine, sans maquiller l’incertitude, et sans confondre mouvement avec autorisation.
+
+---
+
 ## What I build
 
 I work on practical infrastructure for agentic systems that need to stay bounded, auditable, and reversible:
