@@ -4,6 +4,25 @@ All notable changes to this public GitHub profile README are recorded here.
 
 This changelog does not imply runtime capability, production readiness, client adoption, revenue, formal verification, or permission-to-act.
 
+## v0.1.2 - 2026-06-09
+
+Status: contact and wording polish pass.
+
+### Changed
+
+- Added canonical LinkedIn contact URL without tracking parameters.
+- Replaced the rough `codes` sentence with a more precise version about methods, codes, and safety nets.
+- Replaced `Public lab` contact wording with `Public observer surface`.
+- Added a sober invitation for conversations around AI-agent governance, reliability, auditability, and bounded workflows.
+
+### Boundaries maintained
+
+- No production-readiness claim added.
+- No client or revenue claim added.
+- No private implementation safety claim added.
+- No runtime authority added.
+- No permission-to-act granted.
+
 ## v0.1.1 - 2026-06-09
 
 Status: personal origin and public positioning pass.
