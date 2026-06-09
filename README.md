@@ -1,10 +1,16 @@
-﻿# Hichem Benali
+# Hichem Benali
 
-**Building governed autonomous systems, bounded agent workflows, and proof-driven AI infrastructure.**
+**Building bounded, reviewable, proof-driven AI systems.**
 
 I design and build systems where LLMs are used as reasoning engines inside explicit governance boundaries, not as uncontrolled decision-makers.
 
-My current work focuses on **ACE / Asso Capital Engine**: a governed autonomous operating layer for multi-agent delegation, state monitoring, receipts, human approval gates, and fail-closed execution.
+My current work focuses on **ACE / Asso Capital Engine**: a private systems lab for multi-agent delegation, state monitoring, receipts, human approval gates, and fail-closed execution.
+
+The public work is intentionally narrower: proof surfaces, receipt standards, SOPs, and documentation that can be inspected without exposing private runtime authority.
+
+New here? Open [`VISUAL_OVERVIEW.md`](VISUAL_OVERVIEW.md) for a one-screen repo map.
+
+Current profile status: [`PUBLIC_PROFILE_SURFACE_V0`](STATUS.md).
 
 The core thesis is simple:
 
@@ -12,11 +18,11 @@ The core thesis is simple:
 
 ---
 
-## What I Build
+## What I build
 
 I work on practical infrastructure for agentic systems that need to stay bounded, auditable, and reversible:
 
-- **bounded autonomy**: agents act inside explicit envelopes;
+- **bounded autonomy**: agents operate inside explicit envelopes;
 - **branch-as-envelope workflows**: every agentic branch has a mandate, boundary, handoff, and rollback path;
 - **receipt-based execution**: claims are not trusted without evidence;
 - **human-in-the-loop gates**: sensitive actions require explicit approval;
@@ -29,7 +35,7 @@ The goal is to make agentic systems **governable, auditable, reversible, and use
 
 ---
 
-## Current Focus
+## Current focus
 
 ### ACE / Asso Capital Engine
 
@@ -39,33 +45,33 @@ It explores how specialized agents can coordinate work across branches, produce 
 
 The canonical execution repo is currently private while the safety, runtime, and proof boundaries are being stabilized.
 
-Public-facing extracts and reusable patterns will be published through the repos below.
+Public-facing extracts and reusable patterns are published through the repos below.
 
 ---
 
-## Public Artifacts
+## Public artifacts
 
 ### [asso-lab](https://github.com/monkidy/asso-lab)
 
-The flagship public surface: a working proof of the ACE doctrine. Bounded briefs with code-generated, inspectable receipts (status, hash, sources, timestamp, signature). Proof, not promises.
+Public observer surface for ACE doctrine and receipts. It shows bounded briefs with code-generated, inspectable receipts: status, hash, sources, timestamp, and signature fields.
 
 It also hosts the canonical [ACE Visual Charter V1](https://github.com/monkidy/asso-lab/blob/main/docs/brand/ACE_VISUAL_CHARTER_V1.md), the fleet's dual-mode visual doctrine.
 
 ### [ace-agent-governance-receipt-standard](https://github.com/monkidy/ace-agent-governance-receipt-standard)
 
-The citable standard: a small, practical pattern for keeping AI agents bounded, traceable, and revocable (mandate, proposal, receipt). Apache-2.0.
+A small, practical standard for keeping AI agents bounded, traceable, and revocable through mandate, proposal, action receipt, and refusal receipt patterns. Apache-2.0.
 
 ### [ai-ops-sop-pack](https://github.com/monkidy/ai-ops-sop-pack)
 
-SOPs and templates for bounded AI-agent operations: PR review, handoff discipline, crash recovery, stop conditions. The most directly reusable drop-in artifact.
+SOPs and templates for AI-assisted engineering operations: PR review, handoff discipline, crash recovery, stop conditions, and evidence-before-readiness review. CC BY 4.0.
 
 ### [monkidy](https://github.com/monkidy/monkidy)
 
-This GitHub profile README. Public identity and authority surface for the work above.
+This GitHub profile README. Public orientation surface for the work above.
 
 ---
 
-## Technical Areas
+## Technical areas
 
 **Systems Architecture**  
 Multi-agent orchestration, bounded autonomy, state buses, execution gates, agent envelopes.
@@ -84,7 +90,7 @@ Risk-aware telemetry, signal pipelines, and supervised execution research.
 
 ---
 
-## Operating Doctrine
+## Operating doctrine
 
 > Power without governance is a liability.  
 > Real autonomy requires boundaries, receipts, and revocation.
@@ -99,7 +105,23 @@ Core principles:
 
 ---
 
-## Current Proof Work
+## What this profile does not claim
+
+This profile does not claim:
+
+- production readiness;
+- formal verification;
+- live runtime safety;
+- client adoption;
+- revenue;
+- autonomous permission-to-act;
+- private implementation safety.
+
+Private work becomes public only when it can be made safe, documented, and verifiable.
+
+---
+
+## Current proof work
 
 The next public-facing layer is focused on making agent governance testable:
 
@@ -111,8 +133,6 @@ The next public-facing layer is focused on making agent governance testable:
 - public proof cards;
 - local, deterministic eval fixtures before any model-scored runner.
 
-Private work becomes public only when it can be made safe, documented, and verifiable.
-
 ---
 
 ## Contact
@@ -120,4 +140,3 @@ Private work becomes public only when it can be made safe, documented, and verif
 - GitHub: [@monkidy](https://github.com/monkidy)
 - Public SOPs: [ai-ops-sop-pack](https://github.com/monkidy/ai-ops-sop-pack)
 - Public lab: [asso-lab](https://github.com/monkidy/asso-lab)
-
