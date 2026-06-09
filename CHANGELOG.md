@@ -1,0 +1,30 @@
+# Changelog
+
+All notable changes to this public GitHub profile README are recorded here.
+
+This changelog does not imply runtime capability, production readiness, client adoption, revenue, formal verification, or permission-to-act.
+
+## v0.1.0 - 2026-06-09
+
+Status: public profile reader-first alignment pass.
+
+### Added
+
+- `STATUS.md` with explicit public profile surface status.
+- `VISUAL_OVERVIEW.md` with public repo map, reader map, claim discipline, and doctrine summary.
+- `CHANGELOG.md` for profile readability and claim-boundary changes.
+
+### Changed
+
+- `README.md` now presents the profile as a public orientation surface, not an authority surface.
+- `README.md` now links to `VISUAL_OVERVIEW.md` and `STATUS.md` near the top.
+- `README.md` now separates private runtime work from public proof surfaces.
+- `README.md` now includes explicit non-claims: no production readiness, formal verification, live runtime safety, client adoption, revenue, autonomous permission-to-act, or private implementation safety.
+
+### Boundaries maintained
+
+- No runtime authority added.
+- No production-readiness claim added.
+- No client or revenue claim added.
+- No private implementation safety claim added.
+- No permission-to-act granted.
