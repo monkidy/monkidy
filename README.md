@@ -24,7 +24,7 @@ Je ne suis pas arrivé à ces sujets par mode.
 
 Je suis arrivé là parce que j’ai longtemps senti un décalage entre ce que je voyais dans ma tête et ce que les systèmes autour de moi permettaient vraiment de faire.
 
-Quand tu n’as pas tous les codes au départ, tu apprends vite une chose : le flou coûte cher. Une consigne mal posée, une responsabilité pas claire, une décision prise trop vite, une preuve qu’on ne garde pas, et tout repose ensuite sur la mémoire, l’intuition ou la bonne volonté des gens.
+Quand on ne reçoit pas naturellement les codes, les méthodes et les filets de sécurité, on apprend vite une chose : le flou coûte cher. Une consigne mal posée, une responsabilité pas claire, une décision prise trop vite, une preuve qu’on ne garde pas, et tout repose ensuite sur la mémoire, l’intuition ou la bonne volonté des gens.
 
 J’ai fini par comprendre que ce problème n’était pas seulement personnel. C’est aussi le problème des agents IA.
 
@@ -163,6 +163,9 @@ The next public-facing layer is focused on making agent governance testable:
 
 ## Contact
 
+Open to conversations around AI-agent governance, reliability, auditability, and bounded workflows.
+
+- LinkedIn: [Hichem Benali](https://www.linkedin.com/in/hichem-benali-ace/)
 - GitHub: [@monkidy](https://github.com/monkidy)
+- Public observer surface: [asso-lab](https://github.com/monkidy/asso-lab)
 - Public SOPs: [ai-ops-sop-pack](https://github.com/monkidy/ai-ops-sop-pack)
-- Public lab: [asso-lab](https://github.com/monkidy/asso-lab)
