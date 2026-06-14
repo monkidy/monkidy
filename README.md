@@ -27,15 +27,15 @@ I design systems where LLMs are reasoning engines inside explicit governance bou
 
 ## Live products
 
-### [Sendable](https://github.com/monkidy/sendable-landing) — pre-send AI reviewer
+### [Sendable](https://sendable-landing.vercel.app): pre-send AI reviewer
 
 Paste a draft, pick the context, get a receipt: **SEND**, **REVISE**, or **DON'T SEND**. The receipt discipline applied to everyday writing. Strict JSON output, no silent judgment, you keep the decision.
 
 `POST /api/check` returns a structured pre-send receipt. Free launch tier, freemium path. Next.js, deployable in one click.
 
-Live demo: _add your Vercel URL here_
+Live: [sendable-landing.vercel.app](https://sendable-landing.vercel.app)
 
-### [ace-receipts](https://github.com/monkidy/ace-receipts) — make AI agents bring receipts
+### [ace-receipts](https://github.com/monkidy/ace-receipts): make AI agents bring receipts
 
 A CLI and GitHub Action that scans agentic workflows and AI diffs for proof, risk, and permission, then emits receipts (markdown plus JSON). Fail-closed, zero LLM, deterministic. On npm and the GitHub Marketplace.
 
