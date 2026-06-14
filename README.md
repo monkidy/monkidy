@@ -1,171 +1,84 @@
-# Hichem Benali
+<p align="center">
+  <img src="brand/x-banner.svg" alt="ACE — Bounded Execution for AI Agents" width="100%">
+</p>
 
-**Building bounded, reviewable, proof-driven AI systems.**
+<h1 align="center">Hichem Benali</h1>
 
-I design and build systems where LLMs are used as reasoning engines inside explicit governance boundaries, not as uncontrolled decision-makers.
+<p align="center"><strong>I build the brake and the black box for AI agents, not the accelerator.</strong></p>
 
-My current work focuses on **ACE / Asso Capital Engine**: a private systems lab for multi-agent delegation, state monitoring, receipts, human approval gates, and fail-closed execution.
+<p align="center">
+  Governed autonomous systems, bounded agent workflows, proof-driven AI infrastructure.
+</p>
 
-The public work is intentionally narrower: proof surfaces, receipt standards, SOPs, and documentation that can be inspected without exposing private runtime authority.
-
-New here? Open [`VISUAL_OVERVIEW.md`](VISUAL_OVERVIEW.md) for a one-screen repo map.
-
-Current profile status: [`PUBLIC_PROFILE_SURFACE_V0`](STATUS.md).
-
-The core thesis is simple:
-
-> Autonomy without governance is not intelligence. It is liability.
-
----
-
-## Pourquoi je construis ça
-
-Je ne suis pas arrivé à ces sujets par mode.
-
-Je suis arrivé là parce que j’ai longtemps senti un décalage entre ce que je voyais dans ma tête et ce que les systèmes autour de moi permettaient vraiment de faire.
-
-Quand on ne reçoit pas naturellement les codes, les méthodes et les filets de sécurité, on apprend vite une chose : le flou coûte cher. Une consigne mal posée, une responsabilité pas claire, une décision prise trop vite, une preuve qu’on ne garde pas, et tout repose ensuite sur la mémoire, l’intuition ou la bonne volonté des gens.
-
-J’ai fini par comprendre que ce problème n’était pas seulement personnel. C’est aussi le problème des agents IA.
-
-Un agent peut produire vite. Il peut donner l’impression de comprendre. Il peut proposer, rédiger, exécuter, résumer, convaincre. Mais s’il n’a pas de cadre, pas de limite, pas de trace, pas de refus possible, alors ce n’est pas de l’intelligence opérationnelle. C’est du risque qui parle bien.
-
-ACE / Asso vient de là.
-
-Je construis une manière de travailler où l’agent ne remplace pas l’humain, ne prend pas l’autorité, ne transforme pas une proposition en action, et ne cache pas son travail derrière une phrase propre.
-
-Chaque action doit avoir un mandat. Chaque décision sensible doit avoir un gate. Chaque claim doit pouvoir revenir à une preuve. Chaque système doit savoir s’arrêter quand le cadre manque.
-
-Ce n’est pas une recherche d’autonomie magique.
-
-C’est une recherche de puissance contrôlée : garder la vitesse, garder l’ambition, mais retirer le brouillard.
-
-Je construis ACE / Asso parce que je veux des systèmes capables d’aider vraiment, sans voler la responsabilité humaine, sans maquiller l’incertitude, et sans confondre mouvement avec autorisation.
+<p align="center">
+  <a href="https://www.npmjs.com/package/ace-receipts"><img src="https://img.shields.io/npm/v/ace-receipts?color=1FA463&label=ace-receipts" alt="ace-receipts on npm"></a>
+  <a href="https://www.npmjs.com/package/ace-receipts"><img src="https://img.shields.io/npm/dt/ace-receipts?color=111111&label=downloads" alt="downloads"></a>
+  <img src="https://img.shields.io/badge/doctrine-fail--closed-1FA463" alt="fail-closed">
+  <img src="https://img.shields.io/badge/receipts-over%20claims-111111" alt="receipts over claims">
+</p>
 
 ---
 
-## What I build
+> **Autonomy without governance is not intelligence. It is liability.**
 
-I work on practical infrastructure for agentic systems that need to stay bounded, auditable, and reversible:
-
-- **bounded autonomy**: agents operate inside explicit envelopes;
-- **branch-as-envelope workflows**: every agentic branch has a mandate, boundary, handoff, and rollback path;
-- **receipt-based execution**: claims are not trusted without evidence;
-- **human-in-the-loop gates**: sensitive actions require explicit approval;
-- **fail-closed systems**: unknown states stop instead of improvising;
-- **agent evaluation harnesses**: behavior should be testable, not merely impressive.
-
-The goal is not to make agents act freely.
-
-The goal is to make agentic systems **governable, auditable, reversible, and useful**.
+I design systems where LLMs are reasoning engines inside explicit governance boundaries, not uncontrolled decision-makers. The goal is not to make agents act freely. It is to make agentic systems **governable, auditable, reversible, and useful**.
 
 ---
 
-## Current focus
+## Live products
 
-### ACE / Asso Capital Engine
+### [Sendable](https://github.com/monkidy/sendable-landing) — pre-send AI reviewer
 
-ACE / Asso is my private systems lab for governed autonomous execution.
+Paste a draft, pick the context, get a receipt: **SEND**, **REVISE**, or **DON'T SEND**. The receipt discipline applied to everyday writing. Strict JSON output, no silent judgment, you keep the decision.
 
-It explores how specialized agents can coordinate work across branches, produce artifacts, leave receipts, surface system state in a control room, and prepare public-safe proof outputs without turning LLMs into uncontrolled authorities.
+`POST /api/check` returns a structured pre-send receipt. Free launch tier, freemium path. Next.js, deployable in one click.
 
-The canonical execution repo is currently private while the safety, runtime, and proof boundaries are being stabilized.
+Live demo: _add your Vercel URL here_
 
-Public-facing extracts and reusable patterns are published through the repos below.
+### [ace-receipts](https://github.com/monkidy/ace-receipts) — make AI agents bring receipts
+
+A CLI and GitHub Action that scans agentic workflows and AI diffs for proof, risk, and permission, then emits receipts (markdown plus JSON). Fail-closed, zero LLM, deterministic. On npm and the GitHub Marketplace.
+
+```bash
+npx ace-receipts
+```
 
 ---
 
-## Public artifacts
-
-### [asso-lab](https://github.com/monkidy/asso-lab)
-
-Public observer surface for ACE doctrine and receipts. It shows bounded briefs with code-generated, inspectable receipts: status, hash, sources, timestamp, and signature fields.
-
-It also hosts the canonical [ACE Visual Charter V1](https://github.com/monkidy/asso-lab/blob/main/docs/brand/ACE_VISUAL_CHARTER_V1.md), the fleet's dual-mode visual doctrine.
+## Standards and patterns
 
 ### [ace-agent-governance-receipt-standard](https://github.com/monkidy/ace-agent-governance-receipt-standard)
 
-A small, practical standard for keeping AI agents bounded, traceable, and revocable through mandate, proposal, action receipt, and refusal receipt patterns. Apache-2.0.
+The citable standard: a small, practical pattern for keeping AI agents bounded, traceable, and revocable (mandate, proposal, receipt). Apache-2.0.
 
 ### [ai-ops-sop-pack](https://github.com/monkidy/ai-ops-sop-pack)
 
-SOPs and templates for AI-assisted engineering operations: PR review, handoff discipline, crash recovery, stop conditions, and evidence-before-readiness review. CC BY 4.0.
+SOPs and templates for bounded AI-agent operations: PR review, handoff discipline, crash recovery, stop conditions. The most directly reusable drop-in artifact.
 
-### [monkidy](https://github.com/monkidy/monkidy)
+### [asso-lab](https://github.com/monkidy/asso-lab)
 
-This GitHub profile README. Public orientation surface for the work above.
-
----
-
-## Technical areas
-
-**Systems Architecture**  
-Multi-agent orchestration, bounded autonomy, state buses, execution gates, agent envelopes.
-
-**Core Stack**  
-Python, TypeScript, Node.js, GitHub Actions, local-first automation.
-
-**AI Infrastructure**  
-LLM routing, local inference experiments, agent evaluation harnesses, prompt-to-receipt workflows.
-
-**Security & Governance**  
-No-send defaults, explicit approval boundaries, audit trails, rollback-first design.
-
-**Market Telemetry Research**  
-Risk-aware telemetry, signal pipelines, and supervised execution research.
+The public proof surface of the ACE doctrine. Bounded briefs with code-generated, inspectable receipts (status, hash, sources, timestamp, signature). Proof, not promises. Hosts the canonical [ACE Visual Charter V1](https://github.com/monkidy/asso-lab/blob/main/docs/brand/ACE_VISUAL_CHARTER_V1.md).
 
 ---
 
 ## Operating doctrine
 
-> Power without governance is a liability.  
-> Real autonomy requires boundaries, receipts, and revocation.
-
-Core principles:
+<img src="brand/proof-seal.svg" align="right" width="92" alt="proof seal">
 
 - **Fail-closed by default**: unknown states stop instead of improvising.
 - **Receipts over claims**: no status is trusted without evidence.
 - **Outbox is not send**: drafts and publication are separate gates.
-- **Branches are envelopes**: every agentic work branch needs a mandate, boundary, handoff, and rollback path.
-- **Human authority stays explicit**: LLMs reason, systems verify, humans authorize sensitive action.
+- **Branches are envelopes**: every agentic branch has a mandate, boundary, handoff, and rollback path.
+- **Human authority stays explicit**: LLMs reason, systems verify, humans authorize.
+
+The canonical execution engine (ACE / Asso) stays private while its safety, runtime, and proof boundaries are stabilized. Private work becomes public only when it can be made safe, documented, and verifiable.
 
 ---
 
-## What this profile does not claim
+## Stack
 
-This profile does not claim:
-
-- production readiness;
-- formal verification;
-- live runtime safety;
-- client adoption;
-- revenue;
-- autonomous permission-to-act;
-- private implementation safety.
-
-Private work becomes public only when it can be made safe, documented, and verifiable.
-
----
-
-## Current proof work
-
-The next public-facing layer is focused on making agent governance testable:
-
-- action-class classification;
-- draft vs send boundaries;
-- claim vs receipt discipline;
-- handoff completeness;
-- branch-as-envelope validation;
-- public proof cards;
-- local, deterministic eval fixtures before any model-scored runner.
-
----
+Python, TypeScript, Node.js, GitHub Actions, JSON Schema, local-first automation. Multi-LLM routing, local inference, agent evaluation harnesses, prompt-to-receipt workflows.
 
 ## Contact
 
-Open to conversations around AI-agent governance, reliability, auditability, and bounded workflows.
-
-- LinkedIn: [Hichem Benali](https://www.linkedin.com/in/hichem-benali-ace/)
-- GitHub: [@monkidy](https://github.com/monkidy)
-- Public observer surface: [asso-lab](https://github.com/monkidy/asso-lab)
-- Public SOPs: [ai-ops-sop-pack](https://github.com/monkidy/ai-ops-sop-pack)
+GitHub [@monkidy](https://github.com/monkidy) · X [@ace_prooflayer](https://x.com/ace_prooflayer) · LinkedIn [hichem-benali-ace](https://www.linkedin.com/in/hichem-benali-ace)
