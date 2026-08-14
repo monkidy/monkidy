@@ -22,4 +22,4 @@ SYSTASYS brings research, decisions, operations and capital into one working sys
 A CLI and GitHub Action that checks AI-assisted workflows and diffs for evidence, risk and explicit permission.
 
 **[Sendable?](https://sendable-landing.vercel.app)**  
-A product for the moment before you press send. Paste a message, get a verdict, keep the final decision.
+For the message that makes you hover over Send. Paste it, get a verdict, then decide for yourself.
