@@ -1,12 +1,32 @@
 # Changelog
 
-All notable changes to this public GitHub profile README are recorded here.
+Les changements importants de cette surface publique sont conservés ici.
 
-This changelog does not imply runtime capability, production readiness, client adoption, revenue, formal verification, or permission-to-act.
+## v0.2.0 - 2026-08-14
+
+Statut : refonte de l'identité publique, en revue.
+
+### Changé
+
+- Hichem redevient le sujet principal du profil ;
+- le travail actuel est présenté avant les anciennes couches ACE ;
+- le système principal est décrit comme privé sans exposer son nom, son code ou son fonctionnement propriétaire ;
+- les travaux ACE / receipts / gouvernance agentique sont reclassés comme fondations publiques ;
+- les anciens liens X et LinkedIn centrés ACE sont retirés du contact principal en attendant leur réalignement ;
+- les badges et le hero commercial ACE sont retirés de la première impression ;
+- une bannière Hichem neutre remplace l'identité visuelle ACE active ;
+- `STATUS.md` et `VISUAL_OVERVIEW.md` sont réalignés pour éviter une deuxième histoire contradictoire dans le même repo.
+
+### Frontières maintenues
+
+- aucun code du système principal privé publié ;
+- aucune stratégie, donnée sensible, configuration live, secret ou autorité financière exposés ;
+- aucune affirmation de rentabilité, production ou autonomie ajoutée ;
+- les anciens assets ACE sont conservés comme historique et ne sont pas réécrits comme s'ils n'avaient jamais existé.
 
 ## v0.1.2 - 2026-06-09
 
-Status: contact and wording polish pass.
+Statut : contact and wording polish pass.
 
 ### Changed
 
@@ -25,7 +45,7 @@ Status: contact and wording polish pass.
 
 ## v0.1.1 - 2026-06-09
 
-Status: personal origin and public positioning pass.
+Statut : personal origin and public positioning pass.
 
 ### Added
 
@@ -42,7 +62,7 @@ Status: personal origin and public positioning pass.
 
 ## v0.1.0 - 2026-06-09
 
-Status: public profile reader-first alignment pass.
+Statut : public profile reader-first alignment pass.
 
 ### Added
 
