@@ -4,16 +4,18 @@
 
 # Hichem Benali
 
-Independent builder working on software, products and systems.
+I started with databases and production systems. I kept following the problems.
+
+I build software, products and systems. I like ambitious systems. I just want them to survive contact with reality.
 
 Currently building **SYSTASYS**.
 
-SYSTASYS brings research, decisions, operations and capital into one system. The core stays private. I publish selected work when it is useful on its own.
+SYSTASYS brings research, decisions, operations and capital into one working system. The core stays private. I publish selected work when it is useful on its own.
 
 ## Selected work
 
 **[ace-receipts](https://github.com/monkidy/ace-receipts)**  
-A deterministic CLI and GitHub Action for checking workflows and diffs for evidence, risk and permission boundaries.
+A deterministic CLI and GitHub Action for checking workflows and diffs against evidence, risk and explicit permissions.
 
 **[Sendable?](https://sendable-landing.vercel.app)**  
 A pre-send review product: paste a message, get a structured verdict, keep the final decision.
@@ -22,7 +24,7 @@ A pre-send review product: paste a message, get a structured verdict, keep the f
 
 [AI Ops SOP Pack](https://github.com/monkidy/ai-ops-sop-pack) · [Asso Lab](https://github.com/monkidy/asso-lab) · [Agent Governance Receipt Standard](https://github.com/monkidy/ace-agent-governance-receipt-standard) · [Agent Decision Receipts](https://github.com/monkidy/agent-decision-receipts)
 
-Earlier work on governance, evidence, bounded execution and operational reliability.
+Earlier work on evidence, reliability and controlled execution.
 
 ## Contact
 
