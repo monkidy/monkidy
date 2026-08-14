@@ -6,7 +6,11 @@
 
 I started with databases and production systems. I kept following the problems.
 
-I build software, products and systems. I like ambitious systems. I just want them to survive contact with reality.
+I learn by following a problem until I can build around it. That has taken me through software, products, algorithms, research and questions much bigger than software.
+
+I do not like choosing an explanation too early. I would rather keep several alive and let evidence remove them.
+
+I like ambitious systems. I just want them to survive contact with reality.
 
 Currently building **SYSTASYS**.
 
