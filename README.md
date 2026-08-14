@@ -1,84 +1,63 @@
 <p align="center">
-  <img src="brand/x-banner.svg" alt="ACE — Bounded Execution for AI Agents" width="100%">
+  <img src="brand/hichem-profile-banner.svg" alt="Hichem Benali" width="100%">
 </p>
 
-<h1 align="center">Hichem Benali</h1>
+# Hichem Benali
 
-<p align="center"><strong>I build the brake and the black box for AI agents, not the accelerator.</strong></p>
+Je construis des systèmes et des produits à l'intersection de **l'IA, de l'automatisation, de la décision et du capital**.
 
-<p align="center">
-  Governed autonomous systems, bounded agent workflows, proof-driven AI infrastructure.
-</p>
+Mon travail principal est privé. Ce profil montre seulement une sélection de ce que je peux rendre public sans exposer le cœur : produits, outils, méthodes et traces techniques qui ont une valeur autonome.
 
-<p align="center">
-  <a href="https://www.npmjs.com/package/ace-receipts"><img src="https://img.shields.io/npm/v/ace-receipts?color=1FA463&label=ace-receipts" alt="ace-receipts on npm"></a>
-  <a href="https://www.npmjs.com/package/ace-receipts"><img src="https://img.shields.io/npm/dt/ace-receipts?color=111111&label=downloads" alt="downloads"></a>
-  <img src="https://img.shields.io/badge/doctrine-fail--closed-1FA463" alt="fail-closed">
-  <img src="https://img.shields.io/badge/receipts-over%20claims-111111" alt="receipts over claims">
-</p>
+## Maintenant
 
----
+Je développe un système privé qui relie recherche, données, décision, automatisation, contrôle et apprentissage. L'objectif n'est pas d'afficher toute son architecture : le code central, les stratégies, les configurations live et les mécanismes propriétaires restent privés.
 
-> **Autonomy without governance is not intelligence. It is liability.**
+Ce que je publie doit pouvoir être compris, utilisé ou audité sans avoir besoin d'accéder au moteur privé.
 
-I design systems where LLMs are reasoning engines inside explicit governance boundaries, not uncontrolled decision-makers. The goal is not to make agents act freely. It is to make agentic systems **governable, auditable, reversible, and useful**.
+## Travaux publics sélectionnés
 
----
+### [ace-receipts](https://github.com/monkidy/ace-receipts)
 
-## Live products
+CLI et GitHub Action déterministes pour vérifier des workflows agentiques et des changements produits avec l'IA. Le projet transforme des affirmations en éléments inspectables plutôt qu'en simple confiance implicite.
 
-### [Sendable](https://sendable-landing.vercel.app): pre-send AI reviewer
+### [Sendable?](https://sendable-landing.vercel.app)
 
-Paste a draft, pick the context, get a receipt: **SEND**, **REVISE**, or **DON'T SEND**. The receipt discipline applied to everyday writing. Strict JSON output, no silent judgment, you keep the decision.
-
-`POST /api/check` returns a structured pre-send receipt. Free launch tier, freemium path. Next.js, deployable in one click.
-
-Live: [sendable-landing.vercel.app](https://sendable-landing.vercel.app)
-
-### [ace-receipts](https://github.com/monkidy/ace-receipts): make AI agents bring receipts
-
-A CLI and GitHub Action that scans agentic workflows and AI diffs for proof, risk, and permission, then emits receipts (markdown plus JSON). Fail-closed, zero LLM, deterministic. On npm and the GitHub Marketplace.
-
-```bash
-npx ace-receipts
-```
-
----
-
-## Standards and patterns
-
-### [ace-agent-governance-receipt-standard](https://github.com/monkidy/ace-agent-governance-receipt-standard)
-
-The citable standard: a small, practical pattern for keeping AI agents bounded, traceable, and revocable (mandate, proposal, receipt). Apache-2.0.
+Un produit de vérification avant envoi : un message entre, un verdict structuré ressort, l'humain garde la décision. Le produit est public ; son code n'a pas besoin de l'être.
 
 ### [ai-ops-sop-pack](https://github.com/monkidy/ai-ops-sop-pack)
 
-SOPs and templates for bounded AI-agent operations: PR review, handoff discipline, crash recovery, stop conditions. The most directly reusable drop-in artifact.
+Procédures et modèles pour revue de PR, handoff, reprise après incident et conditions d'arrêt dans des workflows assistés par IA.
 
-### [asso-lab](https://github.com/monkidy/asso-lab)
+## Fondations publiques
 
-The public proof surface of the ACE doctrine. Bounded briefs with code-generated, inspectable receipts (status, hash, sources, timestamp, signature). Proof, not promises. Hosts the canonical [ACE Visual Charter V1](https://github.com/monkidy/asso-lab/blob/main/docs/brand/ACE_VISUAL_CHARTER_V1.md).
+Une partie de mes travaux précédents portait plus directement sur la gouvernance des agents IA, les receipts et l'exécution bornée. Ces repos restent publics comme fondations techniques et historique vérifiable :
 
----
+- [asso-lab](https://github.com/monkidy/asso-lab)
+- [ace-agent-governance-receipt-standard](https://github.com/monkidy/ace-agent-governance-receipt-standard)
+- [agent-decision-receipts](https://github.com/monkidy/agent-decision-receipts)
 
-## Operating doctrine
+Ils ne définissent plus à eux seuls mon travail actuel.
 
-<img src="brand/proof-seal.svg" align="right" width="92" alt="proof seal">
+## Manière de travailler
 
-- **Fail-closed by default**: unknown states stop instead of improvising.
-- **Receipts over claims**: no status is trusted without evidence.
-- **Outbox is not send**: drafts and publication are separate gates.
-- **Branches are envelopes**: every agentic branch has a mandate, boundary, handoff, and rollback path.
-- **Human authority stays explicit**: LLMs reason, systems verify, humans authorize.
+Je garde quelques règles simples :
 
-The canonical execution engine (ACE / Asso) stays private while its safety, runtime, and proof boundaries are stabilized. Private work becomes public only when it can be made safe, documented, and verifiable.
+- une preuve vaut mieux qu'un statut déclaré ;
+- l'automatisation doit avoir des limites explicites ;
+- une erreur découverte doit être corrigée clairement ;
+- ce qui est privé reste privé par conception, pas par oubli ;
+- un système utile doit survivre à la démonstration et au marketing.
 
----
+## Public / privé
 
-## Stack
+**Public :** produits sélectionnés, outils réutilisables, méthodes, formats, exemples et preuves que je choisis d'exposer.
 
-Python, TypeScript, Node.js, GitHub Actions, JSON Schema, local-first automation. Multi-LLM routing, local inference, agent evaluation harnesses, prompt-to-receipt workflows.
+**Privé :** moteur principal, code propriétaire, stratégies, données sensibles, configurations d'exécution, secrets, infrastructures et travaux qui n'ont aucune raison d'être publics.
+
+Le dépôt privé n'est pas une promesse cachée. Le public doit être jugé sur ce qui est réellement visible et vérifiable ici.
 
 ## Contact
 
-GitHub [@monkidy](https://github.com/monkidy) · X [@ace_prooflayer](https://x.com/ace_prooflayer) · LinkedIn [hichem-benali-ace](https://www.linkedin.com/in/hichem-benali-ace)
+GitHub : [@monkidy](https://github.com/monkidy)
+
+Les autres surfaces publiques seront reliées ici lorsqu'elles raconteront la même histoire que ce profil.
