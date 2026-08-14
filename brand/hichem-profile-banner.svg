@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="420" viewBox="0 0 1500 420" fill="none">
+  <rect width="1500" height="420" fill="#F7F5EF"/>
+  <line x1="96" y1="86" x2="1404" y2="86" stroke="#171717" stroke-width="2"/>
+  <text x="96" y="61" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18" letter-spacing="4" fill="#5A5A55">MONKIDY / HICHEM BENALI</text>
+  <text x="94" y="212" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="86" font-weight="760" letter-spacing="-2" fill="#111111">HICHEM BENALI</text>
+  <text x="98" y="270" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="27" font-weight="500" letter-spacing="0.6" fill="#2D2D2A">IA · AUTOMATISATION · DÉCISION · CAPITAL</text>
+  <text x="98" y="338" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18" letter-spacing="2.5" fill="#5A5A55">TRAVAIL PRINCIPAL PRIVÉ  /  TRAVAUX PUBLICS SÉLECTIONNÉS</text>
+  <rect x="1360" y="318" width="44" height="4" fill="#111111"/>
+</svg>
