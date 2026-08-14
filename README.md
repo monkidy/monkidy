@@ -19,17 +19,7 @@ SYSTASYS brings research, decisions, operations and capital into one working sys
 ## Selected work
 
 **[ace-receipts](https://github.com/monkidy/ace-receipts)**  
-A deterministic CLI and GitHub Action for checking workflows and diffs against evidence, risk and explicit permissions.
+A CLI and GitHub Action that checks AI-assisted workflows and diffs for evidence, risk and explicit permission.
 
 **[Sendable?](https://sendable-landing.vercel.app)**  
-A pre-send review product: paste a message, get a structured verdict, keep the final decision.
-
-## Earlier public work
-
-[AI Ops SOP Pack](https://github.com/monkidy/ai-ops-sop-pack) · [Asso Lab](https://github.com/monkidy/asso-lab) · [Agent Governance Receipt Standard](https://github.com/monkidy/ace-agent-governance-receipt-standard) · [Agent Decision Receipts](https://github.com/monkidy/agent-decision-receipts)
-
-Earlier work on evidence, reliability and controlled execution.
-
-## Contact
-
-[@monkidy](https://github.com/monkidy)
+A product for the moment before you press send. Paste a message, get a verdict, keep the final decision.
