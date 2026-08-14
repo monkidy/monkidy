@@ -1,42 +1,31 @@
 <p align="center">
-  <img src="brand/hichem-profile-banner.svg" alt="Hichem Benali" width="100%">
+  <img src="brand/hichem-profile-banner.svg" alt="Hichem Benali — @monkidy" width="100%">
 </p>
 
 # Hichem Benali
 
-Je construis des systèmes et des produits à l'intersection de **l'IA, de l'automatisation, de la décision et du capital**.
+Independent builder working across software, AI, automation and decision systems.
 
-Mon travail principal est privé. Je publie seulement ce qui a une valeur propre et peut être compris ou inspecté sans ouvrir le moteur.
+My main project is private. It combines research, data, automation, decision-making and capital. I keep the core private and publish only work that can stand on its own.
 
-## En ce moment
-
-Je développe un système privé qui relie recherche, données, décision, automatisation et capital.
-
-Le code central, les stratégies, les configurations live et les mécanismes propriétaires restent privés. Les travaux publics ci-dessous sont autonomes : ils doivent tenir par eux-mêmes.
-
-## Travaux publics sélectionnés
+## Selected work
 
 **[ace-receipts](https://github.com/monkidy/ace-receipts)**  
-CLI et GitHub Action déterministes pour vérifier des workflows agentiques et des changements produits avec l'IA.
+A deterministic CLI and GitHub Action for checking AI-assisted workflows and diffs for evidence, risk and permission boundaries.
 
 **[Sendable?](https://sendable-landing.vercel.app)**  
-Vérification avant envoi : un message entre, un verdict structuré ressort, l'humain garde la décision.
+A pre-send review product: paste a message, get a structured verdict, keep the final decision.
 
-**[ai-ops-sop-pack](https://github.com/monkidy/ai-ops-sop-pack)**  
-Procédures et modèles pour revue de PR, handoff, reprise après incident et conditions d'arrêt dans des workflows assistés par IA.
+## Earlier public work
 
-## Fondations
+[AI Ops SOP Pack](https://github.com/monkidy/ai-ops-sop-pack) · [Asso Lab](https://github.com/monkidy/asso-lab) · [Agent Governance Receipt Standard](https://github.com/monkidy/ace-agent-governance-receipt-standard) · [Agent Decision Receipts](https://github.com/monkidy/agent-decision-receipts)
 
-Mes travaux publics précédents sur la gouvernance agentique, les receipts et l'exécution bornée restent disponibles comme historique technique : [asso-lab](https://github.com/monkidy/asso-lab) · [receipt standard](https://github.com/monkidy/ace-agent-governance-receipt-standard) · [agent-decision-receipts](https://github.com/monkidy/agent-decision-receipts).
+These projects document earlier work around AI-agent governance, evidence, bounded execution and operational reliability. They remain public as technical references, not as a complete description of what I am building now.
 
-Ils expliquent une partie de la méthode. Ils ne définissent plus à eux seuls mon travail actuel.
+## Working principles
 
-## Principes
-
-**Preuve avant affirmation. Limites explicites. Correction claire. Publication volontaire, jamais fuite.**
+**Evidence before claims. Explicit boundaries. Clear correction when reality changes. Private by design when there is no reason to publish.**
 
 ## Contact
 
-GitHub : [@monkidy](https://github.com/monkidy)
-
-Les autres surfaces seront reliées ici lorsqu'elles raconteront la même histoire que ce profil.
+[@monkidy](https://github.com/monkidy)
