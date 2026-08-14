@@ -1,55 +1,47 @@
-# Project status
-
-## Current status
+# Statut du profil
 
 ```text
-PUBLIC_PROFILE_SURFACE_V0
+HICHEM_PUBLIC_IDENTITY_V1
+DRAFT_REVIEW
 ```
 
-This repository is the public GitHub profile README for Hichem Benali / `@monkidy`.
+Ce dépôt est le profil GitHub public de Hichem Benali / `@monkidy`.
 
-It is a profile and orientation surface.
+Il sert à trois choses :
 
-It is not a runtime, not a proof engine, not a permission system, and not a claim of production readiness.
+1. présenter simplement le travail actuel de Hichem ;
+2. orienter vers quelques travaux publics sélectionnés ;
+3. maintenir une frontière nette entre ce qui est public et le système principal privé.
 
-## What this repo does
+## Position actuelle
 
-This repository:
+Hichem travaille aujourd'hui sur des systèmes et produits à l'intersection de l'IA, de l'automatisation, de la décision et du capital.
 
-- explains the public direction of the ACE / Asso work;
-- links to public proof and documentation repositories;
-- states the operating doctrine in plain language;
-- distinguishes public artifacts from private runtime work;
-- keeps public claims sober and evidence-bound.
+Le travail principal reste privé. Le profil ne publie ni le cœur du système, ni ses stratégies, ni ses configurations live, ni ses données sensibles.
 
-## What this repo does not prove
+Les travaux publics liés à ACE, aux receipts et à la gouvernance agentique restent disponibles comme fondations techniques et historique vérifiable. Ils ne constituent plus à eux seuls l'identité actuelle du profil.
 
-This repository does not prove:
+## Ce que ce dépôt ne prouve pas
 
-- production readiness;
-- live runtime safety;
-- formal verification;
-- client adoption;
-- revenue;
-- autonomous permission-to-act;
-- private implementation safety.
+Ce profil ne prouve pas :
 
-## Public repo map
+- la rentabilité d'un système privé ;
+- sa disponibilité en production ;
+- une performance financière ;
+- une autonomie complète ;
+- une adoption client ;
+- une autorisation opérationnelle ou financière ;
+- la publication du code privé.
 
-Current public-facing repos include:
+Chaque projet public doit être jugé sur ses propres artefacts et preuves.
 
-- `monkidy/asso-lab` - public observer surface for ACE doctrine and receipts;
-- `monkidy/ace-agent-governance-receipt-standard` - public receipt standard;
-- `monkidy/ai-ops-sop-pack` - public SOP pack for AI-assisted engineering operations;
-- `monkidy/monkidy` - this profile README.
-
-Private or sensitive repos should not be treated as public proof surfaces unless their README and status explicitly say so.
-
-## Current decision
+## Décision de présentation
 
 ```text
-PROFILE_ONLY
-PUBLIC_ORIENTATION_SURFACE
-NO_RUNTIME_AUTHORITY
-NO_PERMISSION_TO_ACT
+HICHEM_FIRST
+CURRENT_WORK_BEFORE_HISTORY
+PRIVATE_CORE_NOT_EXPOSED
+SELECTED_PUBLIC_WORK_ONLY
+ACE_AS_FOUNDATION_NOT_IDENTITY
+NO_UNVERIFIED_PUBLIC_CLAIMS
 ```
