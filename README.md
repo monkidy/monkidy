@@ -21,5 +21,5 @@ SYSTASYS brings research, decisions, operations and capital into one working sys
 **[ace-receipts](https://github.com/monkidy/ace-receipts)**  
 A CLI and GitHub Action that checks AI-assisted workflows and diffs for evidence, risk and explicit permission.
 
-**[Sendable?](https://sendable-landing.vercel.app)**  
+**[Sendable?](https://trysendable.com)**  
 For the message that makes you hover over Send. Paste it, get a verdict, then decide for yourself.
