@@ -30,24 +30,26 @@ Public room: https://hichembenali.com/asso
 
 These repositories are public objects from the wider work. They are not a mirror of the private SYSTASYS operating system and they should be evaluated on their own problem, evidence and limits.
 
-### Maintained public objects
+### Current public objects
 
 **[ACE Receipts](https://github.com/monkidy/ace-receipts)**  
 A deterministic CLI + GitHub Action that checks AI-assisted workflows and diffs for proof, risk and explicit permission. `ACE Receipts` remains a historical product name; it is not the parent identity of SYSTASYS.
 
 **[Asso Lab](https://github.com/monkidy/asso-lab)**  
-A bounded public observation surface derived from Asso: briefs, receipts, evidence, refusals and reviewable agent actions.
+A bounded public proof surface derived from Asso and the wider SYSTASYS work: briefs, receipts, evidence, refusals and reviewable agent actions.
+
+### Published reference
 
 **[AI Ops SOP Pack](https://github.com/monkidy/ai-ops-sop-pack)**  
-Documentation-only SOPs for reviewing AI-assisted engineering work, recovery, handoff discipline and stop conditions.
+A reviewed V0.1 documentation release for bounded handoffs, PR audit, recovery and stop conditions. It is preserved as reference material, not as a mirror of current operations.
+
+### Historical public references
 
 **[Agent Decision Receipts](https://github.com/monkidy/agent-decision-receipts)**  
-A small public proof notebook for readable action receipts: intent, permission, evidence, refusal, decision and closeout.
-
-### Historical public reference
+An early public proof notebook around readable action receipts, preserved for provenance and reuse.
 
 **[ACE Agent Governance Receipt Standard](https://github.com/monkidy/ace-agent-governance-receipt-standard)**  
-An early public receipt/governance standard kept visible for provenance and reuse. It is a historical reference, not the current architecture or parent identity of Asso or SYSTASYS.
+An early public receipt/governance standard kept visible for provenance and reuse. It is not the current architecture or parent identity of Asso or SYSTASYS.
 
 ## Public / private boundary
 
