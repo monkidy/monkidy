@@ -43,10 +43,12 @@ A bounded public proof surface derived from Asso and the wider SYSTASYS work: br
 **[AI Ops SOP Pack](https://github.com/monkidy/ai-ops-sop-pack)**  
 A reviewed V0.1 documentation release for bounded handoffs, PR audit, recovery and stop conditions. It is preserved as reference material, not as a mirror of current operations.
 
-### Historical public references
+### Public reference object
 
 **[Agent Decision Receipts](https://github.com/monkidy/agent-decision-receipts)**  
-An early public proof notebook around readable action receipts, preserved for provenance and reuse.
+The June 2026 public notebook behind R.O.C. / Receipts Over Claims. It is not an active runtime product, but it remains intentionally surfaced in the current Work / Travaux public story as an inspectable reference object.
+
+### Historical public reference
 
 **[ACE Agent Governance Receipt Standard](https://github.com/monkidy/ace-agent-governance-receipt-standard)**  
 An early public receipt/governance standard kept visible for provenance and reuse. It is not the current architecture or parent identity of Asso or SYSTASYS.
@@ -62,7 +64,7 @@ The website carries the current public narrative. GitHub carries selected techni
 ## Evidence
 
 Public site: https://hichembenali.com  
-Traces: https://hichembenali.com/traces
+Work / public evidence: https://hichembenali.com/en/work
 
 I prefer inspectable objects to self-awarded adjectives.
 
