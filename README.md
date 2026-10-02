@@ -16,7 +16,7 @@ SYSTASYS is the living system behind Asso.
 
 It is the wider organization that connects memory, observation, research, coordination, bounded action, control and learning over time. It is not one giant AI and it is not mirrored publicly as a single repository.
 
-Public room: https://hichembenali.com/systasys
+Public room: https://hichembenali.com/en/systasys
 
 ## Asso
 
@@ -24,7 +24,7 @@ Asso is the longitudinal cognitive interface at the centre of the work: continui
 
 The better Asso knows the context, the more useful it should become. More context does not create more authority.
 
-Public room: https://hichembenali.com/asso
+Public room: https://hichembenali.com/en/asso
 
 ## Selected public work
 
