@@ -1,71 +1,23 @@
-<p align="center">
-  <img src="brand/hichem-profile-banner.svg" alt="Hichem Benali - @monkidy" width="100%">
-</p>
-
 # Hichem Benali
 
-I start from the problem, not the field.
+**I don’t pick a field. I pick a problem.**
 
-I work across software, products, research, people and operations. The public site is the living map of that work. GitHub is narrower on purpose: selected technical objects, proof surfaces and reusable public artifacts.
+SYSTASYS is my firm: me, and a team of AI agents led by Asso, my AI partner. Most of it runs in private. What goes out to be judged by others is listed here, the good results and the bad ones.
 
-**Current public map:** https://hichembenali.com
+[hichembenali.com](https://hichembenali.com/en) · [all the work, with dates and verdicts](https://hichembenali.com/en/work)
 
-## SYSTASYS
+## Judged by others
 
-SYSTASYS is the living system behind Asso.
+- **EINSTEIN Matchmaker** · 3alet hackathon, October 2026. Four agents working at once finish 18.5% faster than one, but keep 9 proposals out of 24 instead of 12. The jury’s verdict is due on 7 November. [Code](https://github.com/monkidy/einstein-matchmaker) · [Demo](https://monkidy.github.io/einstein-matchmaker/)
+- **MIREX 2026** · predicting which music people prefer, October 2026. Last of 13, with 39.8% right; answering “B” every time scored 59%. [Official table](https://music-ir.org/mirex/wiki/2026:Music_Evaluation_via_CMI-RewardBench_Results)
+- **Formula E Creators Challenge 2026** · a 22-second film, September 2026. Submitted, not among the nine finalists. [The film](https://hichembenali.com/en/work#formula-e)
 
-It is the wider organization that connects memory, observation, research, coordination, bounded action, control and learning over time. It is not one giant AI and it is not mirrored publicly as a single repository.
+## Published objects
 
-Public room: https://hichembenali.com/en/systasys
+- **[ace-receipts](https://github.com/monkidy/ace-receipts)** · June 2026, Apache-2.0. A small tool that checks AI-agent work for proof, risk and permission before it is accepted. Also on [npm](https://www.npmjs.com/package/ace-receipts).
+- **[Sendable?](https://sendable-landing.vercel.app/)** · June 2026. Reads a draft before you send it, and says send, revise or don’t send.
+- **[Asso’s videos](https://monkidy.github.io/asso-medias/)** · October 2026. My AI partner, with a synthetic voice and face, declared as such.
 
-## Asso
+## About this account
 
-Asso is the longitudinal cognitive interface at the centre of the work: continuity, memory, evidence, contradiction, coordination and bounded operation across time.
-
-The better Asso knows the context, the more useful it should become. More context does not create more authority.
-
-Public room: https://hichembenali.com/en/asso
-
-## Selected public work
-
-These repositories are public objects from the wider work. They are not a mirror of the private SYSTASYS operating system and they should be evaluated on their own problem, evidence and limits.
-
-### Current public objects
-
-**[ACE Receipts](https://github.com/monkidy/ace-receipts)**  
-A deterministic CLI + GitHub Action that checks AI-assisted workflows and diffs for proof, risk and explicit permission. `ACE Receipts` remains a historical product name; it is not the parent identity of SYSTASYS.
-
-**[Asso Lab](https://github.com/monkidy/asso-lab)**  
-A bounded public proof surface derived from Asso and the wider SYSTASYS work: briefs, receipts, evidence, refusals and reviewable agent actions.
-
-### Published reference
-
-**[AI Ops SOP Pack](https://github.com/monkidy/ai-ops-sop-pack)**  
-A reviewed V0.1 documentation release for bounded handoffs, PR audit, recovery and stop conditions. It is preserved as reference material, not as a mirror of current operations.
-
-### Public reference object
-
-**[Agent Decision Receipts](https://github.com/monkidy/agent-decision-receipts)**  
-The June 2026 public notebook behind R.O.C. / Receipts Over Claims. It is not an active runtime product, but it remains intentionally surfaced in the current Work / Travaux public story as an inspectable reference object.
-
-### Historical public reference
-
-**[ACE Agent Governance Receipt Standard](https://github.com/monkidy/ace-agent-governance-receipt-standard)**  
-An early public receipt/governance standard kept visible for provenance and reuse. It is not the current architecture or parent identity of Asso or SYSTASYS.
-
-## Public / private boundary
-
-The public repositories show bounded artifacts that can be inspected independently.
-
-They do **not** expose or claim to prove the private SYSTASYS runtime, live infrastructure, broker/economic state, internal control surfaces or current terrain state. Those are separate layers with separate evidence.
-
-The website carries the current public narrative. GitHub carries selected technical proof.
-
-## Evidence
-
-Public site: https://hichembenali.com  
-Work / public evidence: https://hichembenali.com/en/work
-
-I prefer inspectable objects to self-awarded adjectives.
-
-**Evidence over claims.**
+I share it with my firm’s AI agents: much of the code here was written by them. The firm’s own code, methods and data stay private.
