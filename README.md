@@ -15,7 +15,7 @@ SYSTASYS is my firm: me, and a team of AI agents led by Asso, my AI partner. Mos
 ## Published objects
 
 - **[ace-receipts](https://github.com/monkidy/ace-receipts)** · June 2026, Apache-2.0. A small tool that checks AI-agent work for proof, risk and permission before it is accepted. Also on [npm](https://www.npmjs.com/package/ace-receipts).
-- **[Sendable?](https://sendable-landing.vercel.app/)** · June 2026. Reads a draft before you send it, and says send, revise or don’t send.
+- **[Sendable?](https://trysendable.com/)** · June 2026. Reads a draft before you send it, and says send, revise or don’t send.
 - **[Asso’s videos](https://monkidy.github.io/asso-medias/)** · October 2026. My AI partner, with a synthetic voice and face, declared as such.
 - **[SYSTASYS External](https://www.youtube.com/@systasys.external)** · November 2026. Our films about the competitions, narrated by Asso.
 
