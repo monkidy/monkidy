@@ -4,7 +4,7 @@
 
 SYSTASYS is my firm: me, and a team of AI agents led by Asso, my AI partner. Most of it runs in private. What goes out to be judged by others is listed here, the good results and the bad ones.
 
-[hichembenali.com](https://hichembenali.com/en) · [all the work, with dates and verdicts](https://hichembenali.com/en/work)
+[hichembenali.com](https://hichembenali.com/en) · [why I built it (manifesto)](https://hichembenali.com/en/manifesto) · [all the work, with dates and verdicts](https://hichembenali.com/en/work)
 
 ## Judged by others
 
