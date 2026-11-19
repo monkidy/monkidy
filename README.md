@@ -1,25 +1,50 @@
+<p align="center">
+  <img src="assets/hichem-route.gif" alt="Hichem Benali - an original path from a question to evidence" width="100%" />
+</p>
+
 # Hichem Benali
 
-**I don’t pick a field. I pick a problem.**
+**I don't pick a field. I pick a problem.**
 
-SYSTASYS is my firm: me, and a team of AI agents led by Asso, my AI partner. Most of it runs in private. What goes out to be judged by others is listed here, the good results and the bad ones.
+I build **SYSTASYS** with a team of AI agents led by **Asso**, my AI partner. I make the decisions; the agents help turn questions into things we can test. The core stays private. What we share publicly includes experiments that failed, not just the wins.
 
-[hichembenali.com](https://hichembenali.com/en) · [why I built it (manifesto)](https://hichembenali.com/en/manifesto) · [all the work, with dates and verdicts](https://hichembenali.com/en/work)
+:house: [My website](https://hichembenali.com/en) &nbsp; :compass: [Why I built it](https://hichembenali.com/en/manifesto) &nbsp; :mag: [Dated work and verdicts](https://hichembenali.com/en/work)
 
-## Judged by others
+---
 
-- **ANIMA** · PayPal AI Hackathon, November 2026. A gate between an AI agent and PayPal: the model proposes, only locks move money. Submitted on 11 November; the verdict is due on 21 December. [Code](https://github.com/monkidy/anima-pay)
-- **EINSTEIN Matchmaker** · NTP Novi Sad Hackathon (3alet), October 2026. Four agents working at once finish 18.5% faster than one, but keep 9 proposals out of 24 instead of 12. Not among the winners announced on 7 November. [Code](https://github.com/monkidy/einstein-matchmaker) · [Film](https://www.youtube.com/watch?v=nyJowCVr-DI)
-- **MIREX 2026** · predicting which music people prefer, October 2026. Last of 13, with 39.8% right; answering “B” every time scored 59%. [Official table](https://music-ir.org/mirex/wiki/2026:Music_Evaluation_via_CMI-RewardBench_Results)
-- **Formula E Creators Challenge 2026** · a 22-second film, September 2026. Submitted, not among the nine finalists. [The film](https://hichembenali.com/en/work#formula-e)
+## :sparkles: Things you can explore
 
-## Published objects
+### :octopus: [SkeptOpus](https://github.com/systasys/skeptopus)
 
-- **[ACE Receipts](https://github.com/monkidy/ace-receipts)** by SYSTASYS · June 2026, Apache-2.0. A small tool that checks AI-agent work for proof, risk and permission before it is accepted. Also on [npm](https://www.npmjs.com/package/ace-receipts).
-- **[Sendable?](https://trysendable.com/)** by SYSTASYS · June 2026. Reads a draft before you send it, and says send, revise or don’t send.
-- **[Asso’s videos](https://www.youtube.com/@asso.systasys)** · October 2026. My AI partner, with a synthetic voice and face, declared as such.
-- **[SYSTASYS External](https://www.youtube.com/@systasys.external)** · November 2026. Our films about the competitions, narrated by Asso.
+When an AI says something is done, SkeptOpus checks observable evidence - files, commits, tests, and more. A local, open-source project from SYSTASYS. It reports what it could and could not verify; it does not certify code quality.
 
-## About this account
+### :mag_right: [ACE Receipts](https://github.com/monkidy/ace-receipts)
 
-I share it with my firm’s AI agents: much of the code here was written by them. The firm’s own code, methods and data stay private.
+A small public tool for reviewing AI-agent work against proof, risk, and permission before accepting it. Released June 2026 under Apache-2.0. Also on [npm](https://www.npmjs.com/package/ace-receipts).
+
+### :speech_balloon: [Sendable?](https://trysendable.com/)
+
+A quick second look at a draft before sending it: send, revise, or don't send.
+
+### :movie_camera: [Asso](https://www.youtube.com/@asso.systasys)
+
+My AI partner explains and explores ideas on video. Its synthetic voice and face are explicitly disclosed. The [SYSTASYS External](https://www.youtube.com/@systasys.external) channel documents outside challenges.
+
+---
+
+## :test_tube: Judged outside our circle
+
+**Not every attempt worked. That's part of the record.**
+
+- **[ANIMA](https://github.com/monkidy/anima-pay)** - PayPal AI Hackathon, November 2026. Submitted November 11; verdict expected December 21. A proposed gate between AI agents and payment actions.
+- **[EINSTEIN Matchmaker](https://github.com/monkidy/einstein-matchmaker)** - NTP Novi Sad Hackathon, October 2026. Four agents finished 18.5% faster than one, but kept only 9 of 24 proposals instead of 12; not among the winners announced November 7. [Watch the film](https://www.youtube.com/watch?v=nyJowCVr-DI).
+- **[MIREX 2026](https://music-ir.org/mirex/wiki/2026:Music_Evaluation_via_CMI-RewardBench_Results)** - Last of 13 in a music preference prediction evaluation. 39.8% correct versus 59% for the always-B baseline.
+- **Formula E Creators Challenge 2026** - A short film submitted in September; not among the nine finalists. [See the work](https://hichembenali.com/en/work#formula-e).
+
+---
+
+## :seedling: How I work
+
+Curiosity across fields. Humans responsible for decisions. AI agents acknowledged for their contribution. Public claims linked to public evidence. No invented victories, no fake activity counters, and no private architecture exposed.
+
+The most important work at SYSTASYS remains private. This profile is a window into the parts others can inspect.
