@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="assets/hichem-hero-mobile.webp">
-    <img src="assets/hichem-hero-desktop.webp" alt="Hichem Benali. An original sculpted H symbol where two paths converge. Editorial artwork, not a screenshot or activity metric." width="100%">
+    <source media="(max-width: 600px)" srcset="assets/brand-v4/hichem-hero-mobile.webp">
+    <img src="assets/brand-v4/hichem-hero-desktop.webp" alt="Hichem Benali. Original editorial artwork in petrol, mint, ivory and coral: field and systems converge at proof. This is not a screenshot or a verified result." width="100%">
   </picture>
 </p>
 
@@ -27,7 +27,7 @@ Some of that work stays private. What follows can be inspected.
 
 ### 02 / [ACE Receipts](https://github.com/monkidy/ace-receipts)
 
-<a href="https://github.com/monkidy/ace-receipts"><picture><source media="(max-width: 600px)" srcset="assets/ace-project-card-mobile.webp"><img src="assets/ace-project-card.webp" alt="Original illustrated receipt mark for ACE Receipts, a local CLI and GitHub Action. This is illustrative artwork, not an audited receipt or official registered logo." width="100%"></picture></a>
+<a href="https://github.com/monkidy/ace-receipts"><picture><source media="(max-width: 600px)" srcset="assets/brand-v4/ace-project-mobile.webp"><img src="assets/brand-v4/ace-project-desktop.webp" alt="ACE Receipts. Original illustration of a review receipt for proof, risk and permission. Not an actual audit receipt or certification." width="100%"></picture></a>
 
 Deterministic checks of agent-written workflows and diffs for evidence, risk and permission. Human review is still necessary.
 
@@ -35,7 +35,7 @@ Deterministic checks of agent-written workflows and diffs for evidence, risk and
 
 ### 03 / [ANIMA](https://github.com/monkidy/anima-pay)
 
-<a href="https://github.com/monkidy/anima-pay"><picture><source media="(max-width: 600px)" srcset="assets/anima-project-card-mobile.webp"><img src="assets/anima-project-card.webp" alt="Original illustration of two overlapping authorization rings for ANIMA. PayPal sandbox, test money only." width="100%"></picture></a>
+<a href="https://github.com/monkidy/anima-pay"><picture><source media="(max-width: 600px)" srcset="assets/brand-v4/anima-project-mobile.webp"><img src="assets/brand-v4/anima-project-desktop.webp" alt="ANIMA. Original illustration of mandate, payer approval and human authority as three gates. PayPal sandbox only." width="100%"></picture></a>
 
 An AI agent may propose a payment; a human mandate, PayPal payer approval and authorized release determine whether a **sandbox** capture can proceed. Submitted to the PayPal AI Hackathon on 11 November 2026; result pending.
 
@@ -47,7 +47,7 @@ An AI agent may propose a payment; a human mandate, PayPal payer approval and au
 
 I keep the outcomes that weren't flattering, too.
 
-<a href="https://github.com/monkidy/einstein-matchmaker"><picture><source media="(max-width: 600px)" srcset="assets/einstein-project-card-mobile.webp"><img src="assets/einstein-project-card.webp" alt="Illustration for EINSTEIN Matchmaker's independently measured 18.5 percent time saving and three fewer accepted proposals." width="100%"></picture></a>
+<a href="https://github.com/monkidy/einstein-matchmaker"><picture><source media="(max-width: 600px)" srcset="assets/brand-v4/einstein-project-mobile.webp"><img src="assets/brand-v4/einstein-project-desktop.webp" alt="EINSTEIN Matchmaker. Illustration of measured experiment: 18.5 percent faster but three fewer accepted proposals; not a quality improvement claim." width="100%"></picture></a>
 
 - **[EINSTEIN Matchmaker](https://github.com/monkidy/einstein-matchmaker)** — four agents finished the same benchmark 18.5% faster than one, but accepted **9** proposals instead of **12**. Not among the winners announced on 7 November 2026.
 - **[MIREX 2026](https://music-ir.org/mirex/wiki/2026:Music_Evaluation_via_CMI-RewardBench_Results)** — last of 13; 39.8% correct against 59% for a trivial always-B baseline.

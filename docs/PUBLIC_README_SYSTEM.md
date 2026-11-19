@@ -53,3 +53,30 @@ No repo renaming, no global badge generator, no new visual framework, no automat
 ## V3 correction — 19 November 2026 (founder visual rejection)
 
 The V2 minimal banners and generic marks were rejected as visually amateur. Do not re-present them as accepted brand design. The new *candidate* editorial assets use custom high-contrast artwork and project-specific illustrated symbols; they are **not registered logos, official product screenshots or technical proof**. Retain source provenance, use legible paired mobile artwork and test actual GitHub rendering. SkeptOpus retains its original animation and cast, linked from the project's own public repository. The original illustration is not a replacement for a project's technical evidence or brand canon. Never publish a visual-only PASS based on visual novelty.
+
+## V4 / SkeptOpus visual lineage / 19 November 2026
+
+**Source of inspiration, not source of ownership:** the live site
+https://skeptopus.systasys.com/ was read in Chrome on 19 Nov 2026
+(desktop and mobile; intro explicitly skipped). Its observed typographic stack
+is DM Sans, DM Mono and Instrument Serif. Its current hero uses dark petrol
+(#152329), a dark teal/green radial-to-linear background, ivory text,
+mint (#B9DECB), and warm coral (#F27769). The older pastel brand bible
+describes a different time/context; don't silently substitute it for live
+rendering.
+
+This GitHub family is an *adaptation*, not a copy of the SkeptOpus product
+identity. The actual SkeptOpus character, red O, wordmark and animated banner
+remain the project's own (media/banner-animated.webp, linked from its repo).
+The new Hichem/ACE/ANIMA/EINSTEIN gradients, proof paths and shapes are original
+candidate editorial illustrations, **not** registered logos or certification.
+
+Rules: desktop and mobile art authored separately, no emojis, no fake success
+ticks, no claims about a live payment, no invented metrics. Artwork is not proof.
+Show real outcomes and accessible text. Review both GitHub dark and light, at
+360/390/1280px. If a linked image fails, do not merge.
+
+Editable generator: docs/brand/render_v4.py (Python Pillow + Playwright;
+Google Fonts loaded by Chrome, no bundled font binaries). Run it to recreate
+the assets locally. Public README remains the source of public facts.
+Founder aesthetic acceptance and an independent review are separate gates.
