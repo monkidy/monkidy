@@ -1,17 +1,15 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/profile-hero-mobile-dark.png">
-    <source media="(max-width: 600px)" srcset="assets/profile-hero-mobile-light.png">
-    <source media="(prefers-color-scheme: dark)" srcset="assets/profile-hero-dark.png">
-    <img src="assets/profile-hero-light.png" alt="Hichem Benali. Two paths, field and systems, converge at a point of proof." width="100%">
+    <source media="(max-width: 600px)" srcset="assets/hichem-hero-mobile.webp">
+    <img src="assets/hichem-hero-desktop.webp" alt="Hichem Benali. An original sculpted H symbol where two paths converge. Editorial artwork, not a screenshot or activity metric." width="100%">
   </picture>
 </p>
 
-### I don't pick a field. I pick a problem.
+**I don't pick a field. I pick a problem.**
 
-I work across people, operations and technical systems. **Asso** is my AI partner for keeping context, questioning decisions and helping turn ideas into things we can test. **SYSTASYS** is where much of that work connects. I remain responsible for the decisions.
+I move between people, operations and technical systems. **Asso** is the AI partner I built to keep context, challenge decisions and help turn ideas into things we can test. **SYSTASYS** is the larger work these pieces belong to. The decisions remain mine.
 
-The private work stays private. These are pieces you can inspect.
+Some of that work stays private. What follows can be inspected.
 
 [**My website**](https://hichembenali.com/en) · [How it began](https://hichembenali.com/en/manifesto) · [Work, dates and results](https://hichembenali.com/en/work)
 
@@ -21,33 +19,35 @@ The private work stays private. These are pieces you can inspect.
 
 ### 01 / [SkeptOpus](https://github.com/systasys/skeptopus)
 
-*AI can say it shipped. What actually happened?*
+<a href="https://github.com/systasys/skeptopus"><img src="https://raw.githubusercontent.com/systasys/skeptopus/main/media/banner-animated.webp" alt="The actual SkeptOpus animated brand banner from the public project repository." width="100%"></a>
 
-A local checker that looks for observable evidence behind an AI agent's claims: files, commits, tests and deployments. It reports what it could verify and what it could not. It does **not** certify the quality of the work.
+*AI can say it shipped. What actually happened?* A local checker examines observable evidence behind AI coding claims: files, commits, tests and deployments. It reports what it could verify, not that the work is good.
 
-[Explore the project](https://github.com/systasys/skeptopus)
+[Code and explanation](https://github.com/systasys/skeptopus)
 
 ### 02 / [ACE Receipts](https://github.com/monkidy/ace-receipts)
 
-*Before a change is accepted, look at the receipt.*
+<a href="https://github.com/monkidy/ace-receipts"><picture><source media="(max-width: 600px)" srcset="assets/ace-project-card-mobile.webp"><img src="assets/ace-project-card.webp" alt="Original illustrated receipt mark for ACE Receipts, a local CLI and GitHub Action. This is illustrative artwork, not an audited receipt or official registered logo." width="100%"></picture></a>
 
-A local CLI and GitHub Action that review agent-written workflows and diffs for evidence, risk and permission. Deterministic checks; human review still matters.
+Deterministic checks of agent-written workflows and diffs for evidence, risk and permission. Human review is still necessary.
 
-[Open the code](https://github.com/monkidy/ace-receipts) · [Try on npm](https://www.npmjs.com/package/ace-receipts)
+[Explore the CLI and demo](https://github.com/monkidy/ace-receipts) · [npm](https://www.npmjs.com/package/ace-receipts)
 
 ### 03 / [ANIMA](https://github.com/monkidy/anima-pay)
 
-*An experiment in knowing when an AI must wait.*
+<a href="https://github.com/monkidy/anima-pay"><picture><source media="(max-width: 600px)" srcset="assets/anima-project-card-mobile.webp"><img src="assets/anima-project-card.webp" alt="Original illustration of two overlapping authorization rings for ANIMA. PayPal sandbox, test money only." width="100%"></picture></a>
 
-An AI-and-PayPal experiment where an agent proposes, but scoped authority and payer approval govern whether a sandbox payment may proceed. **Test money only.** Submitted to the PayPal AI Hackathon on 11 November 2026; the result remains pending.
+An AI agent may propose a payment; a human mandate, PayPal payer approval and authorized release determine whether a **sandbox** capture can proceed. Submitted to the PayPal AI Hackathon on 11 November 2026; result pending.
 
-[Open the source and evidence](https://github.com/monkidy/anima-pay) · [Visit the sandbox demonstration](https://anima-demo.onrender.com)
+[Inspect the evidence](https://github.com/monkidy/anima-pay) · [Sandbox demonstration](https://anima-demo.onrender.com)
 
 ---
 
 ## Outside the lab
 
 I keep the outcomes that weren't flattering, too.
+
+<a href="https://github.com/monkidy/einstein-matchmaker"><picture><source media="(max-width: 600px)" srcset="assets/einstein-project-card-mobile.webp"><img src="assets/einstein-project-card.webp" alt="Illustration for EINSTEIN Matchmaker's independently measured 18.5 percent time saving and three fewer accepted proposals." width="100%"></picture></a>
 
 - **[EINSTEIN Matchmaker](https://github.com/monkidy/einstein-matchmaker)** — four agents finished the same benchmark 18.5% faster than one, but accepted **9** proposals instead of **12**. Not among the winners announced on 7 November 2026.
 - **[MIREX 2026](https://music-ir.org/mirex/wiki/2026:Music_Evaluation_via_CMI-RewardBench_Results)** — last of 13; 39.8% correct against 59% for a trivial always-B baseline.

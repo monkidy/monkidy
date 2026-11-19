@@ -48,3 +48,8 @@ Check the exact branch and asset paths. Confirm no internal file locations, secr
 ## Explicit non-goals
 
 No repo renaming, no global badge generator, no new visual framework, no automatic publication system, no rewriting every README into a sales page, no silent changes to product assets. This document adds a lightweight editorial grammar to existing work.
+
+
+## V3 correction — 19 November 2026 (founder visual rejection)
+
+The V2 minimal banners and generic marks were rejected as visually amateur. Do not re-present them as accepted brand design. The new *candidate* editorial assets use custom high-contrast artwork and project-specific illustrated symbols; they are **not registered logos, official product screenshots or technical proof**. Retain source provenance, use legible paired mobile artwork and test actual GitHub rendering. SkeptOpus retains its original animation and cast, linked from the project's own public repository. The original illustration is not a replacement for a project's technical evidence or brand canon. Never publish a visual-only PASS based on visual novelty.
