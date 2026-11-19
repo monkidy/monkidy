@@ -80,3 +80,12 @@ Editable generator: docs/brand/render_v4.py (Python Pillow + Playwright;
 Google Fonts loaded by Chrome, no bundled font binaries). Run it to recreate
 the assets locally. Public README remains the source of public facts.
 Founder aesthetic acceptance and an independent review are separate gates.
+
+## V5 / SkeptOpus profile illustration / 19 November 2026
+
+Founder requested that the SkeptOpus **card on the personal GitHub profile** match the approved family of V4 project covers (gradients, typography and restrained mark-making). The two newly created assets are original *editorial presentation*, not the official brand files and not a certification or proof of software behavior. No change was requested to the public SkeptOpus product, website, mascot, red-O identity or its own README.
+
+- Profile display: `assets/brand-v4/skeptopus-editorial-desktop.webp` (1800x600) and `assets/brand-v4/skeptopus-editorial-mobile.webp` (900x1120).
+- Source/provenance: `docs/brand/skeptopus-editorial-source.png` is the output of the 19 Nov user-approved image draft; `docs/brand/skeptopus-mobile-compose.py` re-composes its elements for mobile. These are not source assets or trademarks from the SkeptOpus repo.
+- Canonical SkeptOpus art remains in `systasys/skeptopus/media` and `core/art`. The original animated banner is linked immediately below the editorial card.
+- Gate: review actual GitHub desktop/mobile appearance, check legible labels and no unintended brand confusion, and only then decide whether to merge the **profile** PR. Avoid passing candidate visual art into the product's brand canon by inference.

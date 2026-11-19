@@ -17,11 +17,11 @@ Some of that work stays private. What follows can be inspected.
 
 ### 01 / [SkeptOpus](https://github.com/systasys/skeptopus)
 
-<a href="https://github.com/systasys/skeptopus"><img src="https://raw.githubusercontent.com/systasys/skeptopus/main/media/banner-animated.webp" alt="The actual SkeptOpus animated brand banner from the public project repository." width="100%"></a>
+<a href="https://github.com/systasys/skeptopus"><picture><source media="(max-width: 600px)" srcset="assets/brand-v4/skeptopus-editorial-mobile.webp"><img src="assets/brand-v4/skeptopus-editorial-desktop.webp" alt="SkeptOpus editorial cover. Green verification paths flow from claim to check and proof. Original illustration inspired by the SkeptOpus site's colors, not a screenshot, certification or replacement for the official logo." width="100%"></picture></a>
 
 *AI can say it shipped. What actually happened?* A local checker examines observable evidence behind AI coding claims: files, commits, tests and deployments. It reports what it could verify, not that the work is good.
 
-[Code and explanation](https://github.com/systasys/skeptopus)
+[Code and explanation](https://github.com/systasys/skeptopus) · [Original SkeptOpus animation](https://github.com/systasys/skeptopus/blob/main/media/banner-animated.webp)
 
 ### 02 / [ACE Receipts](https://github.com/monkidy/ace-receipts)
 
