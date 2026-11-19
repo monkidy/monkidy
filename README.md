@@ -21,7 +21,7 @@ Some of that work stays private. What follows can be inspected.
 
 *AI can say it shipped. What actually happened?* A local checker examines observable evidence behind AI coding claims: files, commits, tests and deployments. It reports what it could verify, not that the work is good.
 
-[Code and explanation](https://github.com/systasys/skeptopus) · [Original SkeptOpus animation](https://github.com/systasys/skeptopus/blob/main/media/banner-animated.webp)
+[Code and explanation](https://github.com/systasys/skeptopus)
 
 ### 02 / [ACE Receipts](https://github.com/monkidy/ace-receipts)
 
