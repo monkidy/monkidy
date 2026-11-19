@@ -87,5 +87,5 @@ Founder requested that the SkeptOpus **card on the personal GitHub profile** mat
 
 - Profile display: `assets/brand-v4/skeptopus-editorial-desktop.webp` (1800x600) and `assets/brand-v4/skeptopus-editorial-mobile.webp` (900x1120).
 - Source/provenance: `docs/brand/skeptopus-editorial-source.png` is the output of the 19 Nov user-approved image draft; `docs/brand/skeptopus-mobile-compose.py` re-composes its elements for mobile. These are not source assets or trademarks from the SkeptOpus repo.
-- Canonical SkeptOpus art remains in `systasys/skeptopus/media` and `core/art`. The original animated banner is linked immediately below the editorial card.
+- Canonical SkeptOpus art remains in `systasys/skeptopus/media` and `core/art`. The original animated art remains in the SkeptOpus repository and can be opened directly by selecting the editorial cover in its README.
 - Gate: review actual GitHub desktop/mobile appearance, check legible labels and no unintended brand confusion, and only then decide whether to merge the **profile** PR. Avoid passing candidate visual art into the product's brand canon by inference.
