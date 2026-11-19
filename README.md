@@ -1,11 +1,9 @@
 <p align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="assets/brand-v4/hichem-hero-mobile.webp">
-    <img src="assets/brand-v4/hichem-hero-desktop.webp" alt="Hichem Benali. Original editorial artwork in petrol, mint, ivory and coral: field and systems converge at proof. This is not a screenshot or a verified result." width="100%">
+    <img src="assets/brand-v4/hichem-hero-desktop.webp" alt="Hichem Benali. I don't pick a field. I pick a problem. Original illustration: field and systems converge at proof. Not a screenshot or a verified result." width="100%">
   </picture>
 </p>
-
-**I don't pick a field. I pick a problem.**
 
 I move between people, operations and technical systems. **Asso** is the AI partner I built to keep context, challenge decisions and help turn ideas into things we can test. **SYSTASYS** is the larger work these pieces belong to. The decisions remain mine.
 

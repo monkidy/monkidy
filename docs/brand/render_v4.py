@@ -37,14 +37,15 @@ body {background:#152329;color:#F9F6EF;font-family:"DM Sans",Arial,sans-serif}
 .profile .title .accent {font-size:156px}
 .profile .motif {right:5%;width:45%;top:20%;height:70%}
 .mobile .rule {top:9%}
-.mobile .eyebrow {top:4.6%;font-size:18px}
-.mobile .edition {top:4.6%;font-size:18px}
+.mobile .eyebrow {top:4.6%;font-size:27px}
+.mobile .edition {top:4.6%;font-size:26px}
 .mobile .title {left:7%;top:18%;width:88%}
 .mobile .title .lead {font-size:112px}
 .mobile .title .accent {font-size:144px}
 .mobile .motif {left:6%;right:6%;width:88%;top:47%;height:42%}
-.mobile .kicker {left:7%;bottom:7%;font-size:17px;max-width:86%;line-height:1.75}
+.mobile .kicker {left:7%;bottom:7%;font-size:24px;max-width:86%;line-height:1.6}
 .mobile .pill {display:none}
+.mobile .micro {font-size:24px}
 .mobile.profile .title .lead {font-size:118px}
 .mobile.profile .title .accent {font-size:151px}
 .mobile.profile .motif {top:47%;height:38%}
