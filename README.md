@@ -1,50 +1,62 @@
 <p align="center">
-  <img src="assets/hichem-route.gif" alt="Hichem Benali - an original path from a question to evidence" width="100%" />
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/profile-hero-mobile-dark.png">
+    <source media="(max-width: 600px)" srcset="assets/profile-hero-mobile-light.png">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/profile-hero-dark.png">
+    <img src="assets/profile-hero-light.png" alt="Hichem Benali. Two paths, field and systems, converge at a point of proof." width="100%">
+  </picture>
 </p>
 
-# Hichem Benali
+### I don't pick a field. I pick a problem.
 
-**I don't pick a field. I pick a problem.**
+I work across people, operations and technical systems. **Asso** is my AI partner for keeping context, questioning decisions and helping turn ideas into things we can test. **SYSTASYS** is where much of that work connects. I remain responsible for the decisions.
 
-I build **SYSTASYS** with a team of AI agents led by **Asso**, my AI partner. I make the decisions; the agents help turn questions into things we can test. The core stays private. What we share publicly includes experiments that failed, not just the wins.
+The private work stays private. These are pieces you can inspect.
 
-:house: [My website](https://hichembenali.com/en) &nbsp; :compass: [Why I built it](https://hichembenali.com/en/manifesto) &nbsp; :mag: [Dated work and verdicts](https://hichembenali.com/en/work)
-
----
-
-## :sparkles: Things you can explore
-
-### :octopus: [SkeptOpus](https://github.com/systasys/skeptopus)
-
-When an AI says something is done, SkeptOpus checks observable evidence - files, commits, tests, and more. A local, open-source project from SYSTASYS. It reports what it could and could not verify; it does not certify code quality.
-
-### :mag_right: [ACE Receipts](https://github.com/monkidy/ace-receipts)
-
-A small public tool for reviewing AI-agent work against proof, risk, and permission before accepting it. Released June 2026 under Apache-2.0. Also on [npm](https://www.npmjs.com/package/ace-receipts).
-
-### :speech_balloon: [Sendable?](https://trysendable.com/)
-
-A quick second look at a draft before sending it: send, revise, or don't send.
-
-### :movie_camera: [Asso](https://www.youtube.com/@asso.systasys)
-
-My AI partner explains and explores ideas on video. Its synthetic voice and face are explicitly disclosed. The [SYSTASYS External](https://www.youtube.com/@systasys.external) channel documents outside challenges.
+[**My website**](https://hichembenali.com/en) · [How it began](https://hichembenali.com/en/manifesto) · [Work, dates and results](https://hichembenali.com/en/work)
 
 ---
 
-## :test_tube: Judged outside our circle
+## Selected work
 
-**Not every attempt worked. That's part of the record.**
+### 01 / [SkeptOpus](https://github.com/systasys/skeptopus)
 
-- **[ANIMA](https://github.com/monkidy/anima-pay)** - PayPal AI Hackathon, November 2026. Submitted November 11; verdict expected December 21. A proposed gate between AI agents and payment actions.
-- **[EINSTEIN Matchmaker](https://github.com/monkidy/einstein-matchmaker)** - NTP Novi Sad Hackathon, October 2026. Four agents finished 18.5% faster than one, but kept only 9 of 24 proposals instead of 12; not among the winners announced November 7. [Watch the film](https://www.youtube.com/watch?v=nyJowCVr-DI).
-- **[MIREX 2026](https://music-ir.org/mirex/wiki/2026:Music_Evaluation_via_CMI-RewardBench_Results)** - Last of 13 in a music preference prediction evaluation. 39.8% correct versus 59% for the always-B baseline.
-- **Formula E Creators Challenge 2026** - A short film submitted in September; not among the nine finalists. [See the work](https://hichembenali.com/en/work#formula-e).
+*AI can say it shipped. What actually happened?*
+
+A local checker that looks for observable evidence behind an AI agent's claims: files, commits, tests and deployments. It reports what it could verify and what it could not. It does **not** certify the quality of the work.
+
+[Explore the project](https://github.com/systasys/skeptopus)
+
+### 02 / [ACE Receipts](https://github.com/monkidy/ace-receipts)
+
+*Before a change is accepted, look at the receipt.*
+
+A local CLI and GitHub Action that review agent-written workflows and diffs for evidence, risk and permission. Deterministic checks; human review still matters.
+
+[Open the code](https://github.com/monkidy/ace-receipts) · [Try on npm](https://www.npmjs.com/package/ace-receipts)
+
+### 03 / [ANIMA](https://github.com/monkidy/anima-pay)
+
+*An experiment in knowing when an AI must wait.*
+
+An AI-and-PayPal experiment where an agent proposes, but scoped authority and payer approval govern whether a sandbox payment may proceed. **Test money only.** Submitted to the PayPal AI Hackathon on 11 November 2026; the result remains pending.
+
+[Open the source and evidence](https://github.com/monkidy/anima-pay) · [Visit the sandbox demonstration](https://anima-demo.onrender.com)
 
 ---
 
-## :seedling: How I work
+## Outside the lab
 
-Curiosity across fields. Humans responsible for decisions. AI agents acknowledged for their contribution. Public claims linked to public evidence. No invented victories, no fake activity counters, and no private architecture exposed.
+I keep the outcomes that weren't flattering, too.
 
-The most important work at SYSTASYS remains private. This profile is a window into the parts others can inspect.
+- **[EINSTEIN Matchmaker](https://github.com/monkidy/einstein-matchmaker)** — four agents finished the same benchmark 18.5% faster than one, but accepted **9** proposals instead of **12**. Not among the winners announced on 7 November 2026.
+- **[MIREX 2026](https://music-ir.org/mirex/wiki/2026:Music_Evaluation_via_CMI-RewardBench_Results)** — last of 13; 39.8% correct against 59% for a trivial always-B baseline.
+- **[Formula E Creators Challenge](https://hichembenali.com/en/work#formula-e)** — film submitted in September 2026; not among the nine finalists.
+
+Other public directions: [Sendable?](https://trysendable.com/) (a second look before sending a message) · [Asso on YouTube](https://www.youtube.com/@asso.systasys) (synthetic voice and face disclosed) · [SYSTASYS External](https://www.youtube.com/@systasys.external) (competition films).
+
+---
+
+### About this account
+
+I use this account with AI coding agents; much of the code was written with their help. I select the public work, make the decisions and keep the private source, methods and data private. A repository, a demo and a result are different kinds of evidence. I try not to present one as another.
